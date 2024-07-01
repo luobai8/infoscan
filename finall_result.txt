@@ -607,6 +607,8 @@ economy.gov.kg
 94.143.192.213/24
 
 
+
+https://www.grja.gov.kg/wp-content/plugins/contact-form-7/readme.txt     	CVE-2020-35489     WordPress Contact Form 7 - Unrestricted File Upload
 [0m
 [ https://mail.fsa.gov.kg |  | RainLoop | 200 | 1472 |  ]
 [38;2;237;64;35m[ http://map.avtozhol.gov.kg | PHP | nginx | 404 | 8739 | 404 :: Powered by Subrion 4.2 ][0m
