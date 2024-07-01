@@ -1,1064 +1,1128 @@
-result：-------------------------------------2024-06-20 14:29
-www.gov.kz
-mail.gov.kz
-law.gov.kz
-sts.gov.kz
-e.gov.kz
-cert.gov.kz
-reg.gov.kz
-mob.gov.kz
-autodiscover.m.gov.kz
-map.gov.kz
-www.edu.gov.kz
-root.gov.kz
-m.gov.kz
-ks.gov.kz
-qr.gov.kz
-ie.gov.kz
-export.gov.kz
-www.map.gov.kz
-nb.gov.kz
-mod.gov.kz
-sci.gov.kz
-www.reg.gov.kz
-election.gov.kz
-mail.m.gov.kz
-denisovka.kostanay.gov.kz
-www.oblmed.gov.kz
-www.pavlodar.gov.kz
-ts.depzdrav.gov.kz
-mangystau.gov.kz
-mail.aisoip-v2.adilet.gov.kz
-akb.kgd.gov.kz
-test3.esf.kgd.gov.kz
-eotinish.gov.kz
-www.newpavlodar.pavlodar.gov.kz
-esf-test.kgd.gov.kz
-www.enbek.gov.kz
-mail.arkalyk.kostanay.gov.kz
-did.gov.kz
-ie-edge-01.kostanay.gov.kz
-akm.adilet.gov.kz
-check.irm.invest.gov.kz
-mail.sqo.gov.kz
-epay.gov.kz
-api.doc.cts.gov.kz
-enbek.gov.kz
-www.maslikhat.kostanay.gov.kz
-afmrk.gov.kz
-akimat-talgar.gov.kz
-interview.eqyzmet.gov.kz
-pavlodar.gov.kz
-almatyvet.gov.kz
-cabinet.stat.gov.kz
-fedorovka.kostanay.gov.kz
-mail.zhanlib.gov.kz
-sko.enbek.gov.kz
-esep-kst.gov.kz
-old.bolashak.gov.kz
-autodiscover.mob.gov.kz
-zhambyl.gov.kz
-www.baiterek.gov.kz
-almaty-region.invest.gov.kz
-ows.goszakup.gov.kz
-check.kostanay.gov.kz
-www.maslihat.shahtinsk.gov.kz
-www.knb.gov.kz
-3d-pol4.depzdrav.gov.kz
-barcef2016.bolashak.gov.kz
-kooz.dsm.gov.kz
-privatization.invest.gov.kz
-mail.school.amangeldy.kostanay.gov.kz
-caa.gov.kz
-ugask.kostanay.gov.kz
-map.invest.gov.kz
-webdisk.depzdrav.gov.kz
-mail.chso.gov.kz
-irm.invest.gov.kz
-mail.garden.amangeldy.kostanay.gov.kz
-densaulyk.kostanay.gov.kz
-krg.adilet.gov.kz
-bayzak.zhambyl.gov.kz
-yar-kokshetau.akmo.gov.kz
-old.goszakup.gov.kz
-ie-edge-01.ie.gov.kz
-indigo.altynsarin.kostanay.gov.kz
-turkestan.invest.gov.kz
-school.fedorovka.kostanay.gov.kz
-mail.mod.gov.kz
-fl.cabinet.kgd.gov.kz
-mail.shymkent.gov.kz
-blog.rkastana.gov.kz
-asm.ecogeo.gov.kz
-mx2.eps.ie.gov.kz
-oblmaslihat.pavlodar.gov.kz
-ontustik.gov.kz
-dts.gov.kz
-www.aqmola.gov.kz
-expwe.antikor.gov.kz
-www.rkastana.gov.kz
-www.shymkent.gov.kz
-www.ks.gov.kz
-rcgi.geology.gov.kz
-oebs.goszakup.gov.kz
-webmail.gorakimatereymentau.gov.kz
-sud.gov.kz
-almaty.gov.kz
-atyrau.enbek.gov.kz
-minio.doc.cts.gov.kz
-cpanel.gorakimatereymentau.gov.kz
-newblog.pavlodar.gov.kz
-mx1.eps.ie.gov.kz
-altynsarin.kostanay.gov.kz
-www.ontustik.gov.kz
-ezannama.adilet.gov.kz
-mail.esep-mangistau.gov.kz
-garden.altynsarin.kostanay.gov.kz
-zhanlib.gov.kz
-copy.inva.gov.kz
-mail.enbekvko.gov.kz
-gtd.kgd.gov.kz
-map.invest.kostanay.gov.kz
-api.atyrau.gov.kz
-pi.kgd.gov.kz
-owa.baiterek.gov.kz
-ns.kgd.gov.kz
-etp.adilet.gov.kz
-sailau.atyrau.gov.kz
-www.messages.depzdrav.gov.kz
-ebd.esep.gov.kz
-ecogeo.gov.kz
-forensic.gov.kz
-task.e-vko.gov.kz
-ie-edge-01.adilet.gov.kz
-akkol-archive.akmo.gov.kz
-dsm.gov.kz
-nursultan.kgd.gov.kz
-mfa.gov.kz
-akimvko.gov.kz
-oos.ecogeo.gov.kz
-enbekvko.gov.kz
-onlinetest.eqyzmet.gov.kz
-abai.invest.gov.kz
-atr.adilet.gov.kz
-mail.edu.kostanay.gov.kz
-sqo.gov.kz
-maslikhat.kostanay.gov.kz
-tsp.pki.gov.kz
-kgir-paris.invest.gov.kz
-karoblmaslihat.gov.kz
-mail.bala.gov.kz
-alpha.goszakup.gov.kz
-atyrau.invest.gov.kz
-www.3d-pol4.depzdrav.gov.kz
-new.export.gov.kz
-infonpo.gov.kz
-school-vpn.e-vko.gov.kz
-int.school.altynsarin.kostanay.gov.kz
-archiv.kostanay.gov.kz
-proctor-coturn.eqyzmet.gov.kz
-crl.pki.gov.kz
-mob-edge-01.mob.gov.kz
-www.gorakimatereymentau.gov.kz
-sko.adilet.gov.kz
-kzl.kgd.gov.kz
-www.stat.gov.kz
-old.cbs-saran.gov.kz
-sudexpert.adilet.gov.kz
-selinograd.akmo.gov.kz
-baiterek.gov.kz
-eqyzmet.gov.kz
-almaty.kgd.gov.kz
-ie-edge-02.ie.gov.kz
-ns1.kgd.gov.kz
-shymkent.kgd.gov.kz
-cb-celin.akmo.gov.kz
-booking.bolashak.gov.kz
-aisoip.adilet.gov.kz
-ns2.esaran.gov.kz
-kzl.adilet.gov.kz
-aktobe.invest.gov.kz
-depzdrav.gov.kz
-www.ugask.kostanay.gov.kz
-wiki.goszakup.gov.kz
-alm.kgd.gov.kz
-lyncdiscover.m.gov.kz
-mail2.bolashak.gov.kz
-mail.map.invest.kostanay.gov.kz
-www.karaganda-region.gov.kz
-akt.adilet.gov.kz
-aqmola.gov.kz
-covid.e-vko.gov.kz
-www.maslihat.kostregion.gov.kz
-staging.pcr.e-vko.gov.kz
-minfin.gov.kz
-ulytau.invest.gov.kz
-esub.kostanay.gov.kz
-full.karaganda-region.gov.kz
-e-vko.gov.kz
-proctor.eqyzmet.gov.kz
-ns1.goszakup.gov.kz
-kostanay.gov.kz
-eminfin.gov.kz
-esf.gov.kz
-kgir2021.invest.gov.kz
-karaganda-region.gov.kz
-kst.kgd.gov.kz
-lyncmeet.m.gov.kz
-ns180.goszakup.gov.kz
-kamisti.kostanay.gov.kz
-lyncdialin.m.gov.kz
-pavlodar.invest.gov.kz
-eokno.kgd.gov.kz
-www.qamqor.gov.kz
-www.sgork.gov.kz
-zakup.rkastana.gov.kz
-www.umckrg.gov.kz
-interview-coturn.eqyzmet.gov.kz
-mail.garden.fedorovka.kostanay.gov.kz
-qamqor.gov.kz
-cts.gov.kz
-dataukimet.gov.kz
-mail.e-zhkh.gov.kz
-oblmed.gov.kz
-mailgateway.edu.gov.kz
-www.inva.gov.kz
-www.pki.gov.kz
-zko.kgd.gov.kz
-edu.kostanay.gov.kz
-mail.amangeldy.kostanay.gov.kz
-dvcs.dts.gov.kz
-akmola.enbek.gov.kz
-mail.ezannama.adilet.gov.kz
-mail.garden.altynsarin.kostanay.gov.kz
-dchs.kostanay.gov.kz
-astana.invest.gov.kz
-shymkent.invest.gov.kz
-mail.cts.gov.kz
-mail.mob.gov.kz
-indigo.amangeldy.kostanay.gov.kz
-www.almaty.gov.kz
-goszakup.gov.kz
-school.amangeldy.kostanay.gov.kz
-m.rkastana.gov.kz
-ns1.esaran.gov.kz
-mangystau.invest.gov.kz
-zhmb.kgd.gov.kz
-prevent.antikor.gov.kz
-www.gis.geology.gov.kz
-nws1.enbek.gov.kz
-karatobemaslihat.gov.kz
-iszh.gov.kz
-saraptama.adilet.gov.kz
-economy.gov.kz
-edu.almatybusiness.gov.kz
-emer.gov.kz
-invest07.gov.kz
-collab-edge.antikor.gov.kz
-moderation.did.gov.kz
-gis.geology.gov.kz
-kz2050.gov.kz
-akmola.invest.gov.kz
-null.depzdrav.gov.kz
-mail.e.gov.kz
-pda.enbek.gov.kz
-ns98.goszakup.gov.kz
-shymkent.adilet.gov.kz
-nkr.invest.gov.kz
-school.altynsarin.kostanay.gov.kz
-sip.m.gov.kz
-www.invest.gov.kz
-pki.gov.kz
-bko.adilet.gov.kz
-ns96.goszakup.gov.kz
-int.school.arkalyk.kostanay.gov.kz
-conference.knb.gov.kz
-ezannama-preprod.adilet.gov.kz
-akm.kgd.gov.kz
-pda.goszakup.gov.kz
-kgd.gov.kz
-www.null.depzdrav.gov.kz
-mail.biblioteka-aktogai.gov.kz
-mng.kgd.gov.kz
-celin-archive.akmo.gov.kz
-online.bko.gov.kz
-bi.e-vko.gov.kz
-wkr.invest.gov.kz
-testvs.kgd.gov.kz
-lyncextweb.m.gov.kz
-bala.gov.kz
-zhmb.adilet.gov.kz
-dutch.invest.gov.kz
-nordic.invest.gov.kz
-trk.kgd.gov.kz
-oko.adilet.gov.kz
-jetisu.invest.gov.kz
-eokno.gov.kz
-test4.esf.kgd.gov.kz
-vault.ezannama.adilet.gov.kz
-mail3.bolashak.gov.kz
-2017.karaganda-region.gov.kz
-test2.esf.kgd.gov.kz
-karagandy.invest.gov.kz
-vetlab.gov.kz
-e-catalog.gov.kz
-e-zhkh.gov.kz
-v3bl.goszakup.gov.kz
-isca.gov.kz
-indigo.arkalyk.kostanay.gov.kz
-int.school.fedorovka.kostanay.gov.kz
-amangeldy.kostanay.gov.kz
-garden.oouk.vko.gov.kz
-mail.cbs-saran.gov.kz
-lyncwebcon.m.gov.kz
-rkastana.gov.kz
-zabbix.ezannama.adilet.gov.kz
-invest.gov.kz
-maslihat.shahtinsk.gov.kz
-mail.afm.gov.kz
-bko.gov.kz
-beta.goszakup.gov.kz
-mail.pki.gov.kz
-sport.kostanay.gov.kz
-conf.e-vko.gov.kz
-www.depzdrav.gov.kz
-ie-edge-02.almaty.gov.kz
-maslihat.kostregion.gov.kz
-mail.kodb.gov.kz
-webmail.depzdrav.gov.kz
-sites.invest.gov.kz
-biblioteka-aktogai.gov.kz
-new-admin.export.gov.kz
-geology.gov.kz
-www.oblmaslihat.pavlodar.gov.kz
-tu.invest.gov.kz
-ie-edge-01.almaty.gov.kz
-atyrau.gov.kz
-jitsi.bolashak.gov.kz
-atr.kgd.gov.kz
-chso.gov.kz
-kostanay.enbek.gov.kz
-www.clone.depzdrav.gov.kz
-astana.adilet.gov.kz
-blogs.e.gov.kz
-test1.esf.kgd.gov.kz
-indigo.fedorovka.kostanay.gov.kz
-almaty.invest.gov.kz
-kitap-palatasy.gov.kz
-crl1.pki.gov.kz
-portal.goszakup.gov.kz
-kodb.gov.kz
-oblarchive.atyrau.gov.kz
-www.newblog.pavlodar.gov.kz
-online.stat.gov.kz
-test-digital.baiterek.gov.kz
-school.arkalyk.kostanay.gov.kz
-mail.school.arkalyk.kostanay.gov.kz
-almatybusiness.gov.kz
-astana.kgd.gov.kz
-zan.gov.kz
-map.invest07.gov.kz
-shymkent.gov.kz
-www.shahtinsk.gov.kz
-mail.aqmola.gov.kz
-kontrast.enbek.gov.kz
-cpanel.depzdrav.gov.kz
-ie-edge-02.adilet.gov.kz
-trk.adilet.gov.kz
-invest.atyrau.gov.kz
-pavlodar.enbek.gov.kz
-umckrg.gov.kz
-webdisk.gorakimatereymentau.gov.kz
-ie-edge-02.akimvko.gov.kz
-navigator.almatybusiness.gov.kz
-mail.dts.gov.kz
-messages.depzdrav.gov.kz
-tender.karaganda-region.gov.kz
-int.school.amangeldy.kostanay.gov.kz
-www.mod.gov.kz
-esep-mangistau.gov.kz
-mail.archiv.kostanay.gov.kz
-ruksat.akimvko.gov.kz
-garden.fedorovka.kostanay.gov.kz
-fg.rfs.gov.kz
-csm.adilet.gov.kz
-cabinet.bolashak.gov.kz
-almaty.enbek.gov.kz
-admin.e-vko.gov.kz
-interview-live.eqyzmet.gov.kz
-new-api.export.gov.kz
-mx1.baiterek.gov.kz
-inva.gov.kz
-srvz.goszakup.gov.kz
-esaran.gov.kz
-kyzylorda.invest.gov.kz
-r.e-vko.gov.kz
-adilet.gov.kz
-doc.rkastana.gov.kz
-iz.adilet.gov.kz
-bpm.invest.gov.kz
-garden.amangeldy.kostanay.gov.kz
-taldau.stat.gov.kz
-knb.gov.kz
-doc.cts.gov.kz
-auliekol.kostanay.gov.kz
-shahtinsk.gov.kz
-obl-archive.akmo.gov.kz
-mx2.baiterek.gov.kz
-sailau.e-vko.gov.kz
-newpavlodar.pavlodar.gov.kz
-m.adilet.gov.kz
-esepbko.gov.kz
-lyncextweb.mob.gov.kz
-arkalyk.kostanay.gov.kz
-proctor-media.eqyzmet.gov.kz
-mail.kegen-maslihat.gov.kz
-kokshetau-archive.akmo.gov.kz
-mail.gorakimatereymentau.gov.kz
-portal.antikor.gov.kz
-investkz.gov.kz
-vko.kgd.gov.kz
-mail.antikor.gov.kz
-sko.kgd.gov.kz
-ie-edge-01.akimvko.gov.kz
-www.esep-mangistau.gov.kz
-mail.int.school.altynsarin.kostanay.gov.kz
-gorakimatereymentau.gov.kz
-kisa.adilet.gov.kz
-elbasylibrary.gov.kz
-www.cbs-saran.gov.kz
-antikor.gov.kz
-bi2.e-vko.gov.kz
-staging.covid.e-vko.gov.kz
-egsu.energo.gov.kz
-stat.gov.kz
-bolashak.gov.kz
-garden.obrazovanie-saran.gov.kz
-clients.did.gov.kz
-vmp.gov.kz
-ocsp.pki.gov.kz
-expwe1.antikor.gov.kz
-mail.e-vko.gov.kz
-mangystau.enbek.gov.kz
-ereymen.gov.kz
-esf-vs.gov.kz
-pvl.adilet.gov.kz
-clone.depzdrav.gov.kz
-karmakshy.gov.kz
-qogam.gov.kz
-shko.adilet.gov.kz
-zhambyl.invest.gov.kz
-mail.invest07.gov.kz
-www.epay.gov.kz
-test.bko.gov.kz
-sk.adilet.gov.kz
-mail.invest.gov.kz
-ekr.invest.gov.kz
-check.isca.gov.kz
-pvl.kgd.gov.kz
-pcr.e-vko.gov.kz
-grafana.ezannama.adilet.gov.kz
-cbs-saran.gov.kz
-mail.int.school.arkalyk.kostanay.gov.kz
-sgork.gov.kz
-ie-edge-02.kostanay.gov.kz
-usko.kostanay.gov.kz
-nca.pki.gov.kz
-www.biblioteka-aktogai.gov.kz
-almaty.adilet.gov.kz
-library.caa.gov.kz
-www.akimat-talgar.gov.kz
-step-archive.akmo.gov.kz
-aktobe.enbek.gov.kz
-mng.adilet.gov.kz
-ns2.goszakup.gov.kz
-kostanay.invest.gov.kz
-garden.arkalyk.kostanay.gov.kz
-mail.depzdrav.gov.kz
-bazamonopolist.gov.kz
-all result is: 477gov.kzson_domain
+mail.gov.kg
+ftp.gov.kg
+autodiscover.gov.kg
+www.gov.kg
+edu.gov.kg
+invest.gov.kg
+do.gov.kg
+sk.gov.kg
+archives.gov.kg
+auth.gov.kg
+www.it.gov.kg
+it.gov.kg
+water.gov.kg
+aurora.gov.kg
+digital.gov.kg
+export.gov.kg
+med.gov.kg
+nas.gov.kg
+cloud.gov.kg
+www.sport.gov.kg
+www.stat.gov.kg
+tourism.gov.kg
+dz.gov.kg
+ict.gov.kg
+forest.gov.kg
+mz.gov.kg
+www.cloud.gov.kg
+www.data.gov.kg
+ppp.gov.kg
+mes.gov.kg
+www.med.gov.kg
+agro.gov.kg
+map.avtozhol.gov.kg
+mail.edu.gov.kg
+mail.fsa.gov.kg
+mail.toktogulgorkenesh.gov.kg
+okuu.dpa.gov.kg
+ftpsprod.apipnr.gov.kg
+edugate.edu.gov.kg
+dev.tunduk.gov.kg
+web.gvfi.gov.kg
+www.ordo.gov.kg
+mail.cert.gov.kg
+privacy.dpa.gov.kg
+gts.e.gov.kg
+mail.ict.gov.kg
+world.nas.gov.kg
+nurmanbet.gov.kg
+mail.shailoo.gov.kg
+ict.e.gov.kg
+www.gsin.gov.kg
+crm.energoesep.gov.kg
+api.atp.gov.kg
+kanysh-kya.gov.kg
+www.antimonopolia.gov.kg
+mail.energoesep.gov.kg
+ns2.invest.gov.kg
+mmk.minjust.gov.kg
+ns02.transcom.gov.kg
+asterisk.103.gov.kg
+basma.gov.kg
+ns2.fgi.gov.kg
+mail.sudexpert.gov.kg
+cem24.103.gov.kg
+www.agroprod.gov.kg
+mail.aat.gov.kg
+bozuchuk.gov.kg
+data.edu.gov.kg
+ibilim.edu.gov.kg
+license.edu.gov.kg
+old.edu.gov.kg
+admin.koomtalkuu.gov.kg
+smart.customs.gov.kg
+gittest.it.gov.kg
+sudexpert.gov.kg
+dpcert.apipnr.gov.kg
+mfks.e.gov.kg
+ns2.mnr.gov.kg
+mcs.e.gov.kg
+www.at-bashy.gov.kg
+mon.e.gov.kg
+mnr.gov.kg
+naryn.gov.kg
+fs.tunduk.gov.kg
+cs.zakupki.gov.kg
+mail.balbay.gov.kg
+ns2.sudexpert.gov.kg
+ysyk-ata.gov.kg
+sf.e.gov.kg
+alpha.apipnr.gov.kg
+code.digital.gov.kg
+mail.mfa.gov.kg
+www.gknb.gov.kg
+mail.ysyk-ata.gov.kg
+backend.mfa.gov.kg
+mx.103.gov.kg
+kk-test.mfa.gov.kg
+5.minculture.gov.kg
+religion.gov.kg
+www.mfa.gov.kg
+nd.clod.cert.gov.kg
+licensing.edu.gov.kg
+mineconom.gov.kg
+balykchy.gov.kg
+probation.minjust.gov.kg
+103.gov.kg
+je.e.gov.kg
+gosexpertiza.gov.kg
+www.ak-bulun.gov.kg
+asterisk.customs.gov.kg
+ok.edu.gov.kg
+exam.fsa.gov.kg
+mail.transcom.gov.kg
+ukuk-jardam.gov.kg
+jashtar.gov.kg
+mail.oaouchkun.gov.kg
+www.mtd.gov.kg
+24.edu.gov.kg
+protocol.shailoo.gov.kg
+tunduk.gov.kg
+ak-bulun.gov.kg
+mail.bayzak.gov.kg
+chuy-arhitektura.gov.kg
+account.mektep.edu.gov.kg
+mamtil.gov.kg
+check.e.gov.kg
+energoesep.gov.kg
+training.mlsp.gov.kg
+www.chuy-arhitektura.gov.kg
+mail.mes.gov.kg
+bot.blood.gov.kg
+aat.gov.kg
+atp.gov.kg
+mtsr.e.gov.kg
+rcss.gov.kg
+shailoo.gov.kg
+stat.customs.gov.kg
+mail.kiyal.gov.kg
+www.auctionetp.gov.kg
+www.chetnura.gov.kg
+ns1.mlsp.gov.kg
+old.shailoo.gov.kg
+southrez.gov.kg
+amp.gov.kg
+www.p.103.gov.kg
+fsa.gov.kg
+kargalyk.gov.kg
+lk.pochva.gov.kg
+passport.water.gov.kg
+mail.avtozhol.gov.kg
+mj.e.gov.kg
+ds.edu.gov.kg
+mail.ordo.gov.kg
+wua.water.gov.kg
+dobolu.gov.kg
+mail.dpa.gov.kg
+gvfi.gov.kg
+sti.gov.kg
+ns.ud.gov.kg
+api.zakupki.gov.kg
+www.basma.gov.kg
+kkm.gov.kg
+cbd.minjust.gov.kg
+www.to.gov.kg
+www.shailoo.gov.kg
+aidarken.gov.kg
+drugtest.gvfi.gov.kg
+kiyal.gov.kg
+docs.minjust.gov.kg
+asula.edu.gov.kg
+rsod.mineconom.gov.kg
+report.ud.gov.kg
+nwrmp.water.gov.kg
+raioo.oldmek.edu.gov.kg
+tort-gul.gov.kg
+admin.e.gov.kg
+files.103.gov.kg
+suzak.gov.kg
+mail.fiu.gov.kg
+minfin.gov.kg
+en1.minjust.gov.kg
+myktyaimak.gov.kg
+talapker.shailoo.gov.kg
+mail01.transcom.gov.kg
+www.ds144.gov.kg
+ns1.e.gov.kg
+gosstroy.gov.kg
+collab-edge.transcom.gov.kg
+dev-nm.ordo.gov.kg
+www.tunduk.gov.kg
+reestr.dpa.gov.kg
+me.e.gov.kg
+check.edu.gov.kg
+koomtalkuu.gov.kg
+ess.shailoo.gov.kg
+to.gov.kg
+tract.water.gov.kg
+diplom.edu.gov.kg
+oku.edu.gov.kg
+fiu.gov.kg
+tma.mes.gov.kg
+mx1.fiu.gov.kg
+bayzak.gov.kg
+webinar.mes.gov.kg
+ns1.sudexpert.gov.kg
+gaos.e.gov.kg
+mqprod.apipnr.gov.kg
+ergi.fgi.gov.kg
+ns1.it.gov.kg
+zalog.ordo.gov.kg
+vak.e.gov.kg
+test-check.edu.gov.kg
+kg.tunduk.gov.kg
+joldor.gov.kg
+api.passport.water.gov.kg
+mail.antimonopolia.gov.kg
+avtozhol.gov.kg
+emed.gov.kg
+esep.gov.kg
+gosuslugi.nas.gov.kg
+ilim.naskr.gov.kg
+ais.probation.gov.kg
+terek-say.gov.kg
+eds.zakupki.gov.kg
+mqcert.apipnr.gov.kg
+mail.southrez.gov.kg
+ns2.ud.gov.kg
+lk.uslugi.gov.kg
+mail.regultek.gov.kg
+api.wua.water.gov.kg
+www.myktyaimak.gov.kg
+batken.gov.kg
+ds144.gov.kg
+regultek.gov.kg
+www.fsa.gov.kg
+auctionetp.gov.kg
+edu.dpa.gov.kg
+mail.minculture.gov.kg
+www.tizme.gov.kg
+kca.gov.kg
+mchs.gov.kg
+map.religion.gov.kg
+mvd.e.gov.kg
+aids.gov.kg
+cholpon-ata-ao.gov.kg
+mvd.gov.kg
+gis.water.gov.kg
+www.mkk.gov.kg
+base.antimonopolia.gov.kg
+cert.gov.kg
+wshub.103.gov.kg
+exch.customs.gov.kg
+enrol.edu.gov.kg
+mail.mkk.gov.kg
+help.zakupki.gov.kg
+bishkek.gov.kg
+bb.edu.gov.kg
+katran.gov.kg
+www.export.gov.kg
+jan-bulak.gov.kg
+mfa.gov.kg
+www.agro.gov.kg
+auto.customs.gov.kg
+el2.sec.cert.gov.kg
+cgsn.gov.kg
+dev-reestr.dpa.gov.kg
+quiz.dpa.gov.kg
+gns.sti.gov.kg
+mail.sti.gov.kg
+srs.e.gov.kg
+minculture.gov.kg
+ocdstools.zakupki.gov.kg
+lk.e.gov.kg
+www.ak-say.gov.kg
+ak-tatyr.gov.kg
+online.dpa.gov.kg
+mail.invest.gov.kg
+ns2.mvd.gov.kg
+nism.gov.kg
+proverka.gov.kg
+ws3.sti.gov.kg
+tandoo.zakupki.gov.kg
+pbx.mlsp.gov.kg
+so.toguz-toro.gov.kg
+udpp.e.gov.kg
+gkpen.e.gov.kg
+api.indicators.water.gov.kg
+mail.agro.gov.kg
+stat.e.gov.kg
+kyrgyzkomur.gov.kg
+public.edu.gov.kg
+www.mlsp.gov.kg
+umut.edu.gov.kg
+ord.gosstroy.gov.kg
+gsin.gov.kg
+mail.emed.gov.kg
+toguz-toro-ao.gov.kg
+www.aids.gov.kg
+grja.gov.kg
+ik.gov.kg
+webmail.mnr.gov.kg
+mail.talas.gov.kg
+www.ak-tatyr.gov.kg
+www.ala-buga.gov.kg
+mail.ds144.gov.kg
+ns2.tunduk.gov.kg
+registry.dpa.gov.kg
+student.edu.gov.kg
+coe.mes.gov.kg
+pm.mlsp.gov.kg
+agromap.gov.kg
+chui.gov.kg
+tizme.gov.kg
+www.gvfi.gov.kg
+balbay.gov.kg
+minjust.gov.kg
+wscert.apipnr.gov.kg
+ns.e.gov.kg
+open.edu.gov.kg
+pop3.ordo.gov.kg
+ns1.bazar-korgon.gov.kg
+ns1.invest.gov.kg
+old.mfa.gov.kg
+mlsp.gov.kg
+edu.myktyaimak.gov.kg
+mail.naskr.gov.kg
+raioo.mektep.edu.gov.kg
+uslugi.gov.kg
+mail.baetov-aa.gov.kg
+karkyra.gov.kg
+docs.tunduk.gov.kg
+www.wua.water.gov.kg
+bilim.edu.gov.kg
+ilim.edu.gov.kg
+jalal-abad.gov.kg
+oaouchkun.gov.kg
+www.ak-suu-aa.gov.kg
+www.digital.gov.kg
+atay.gov.kg
+mail.fgi.gov.kg
+aitstest.gvfi.gov.kg
+gp.it.gov.kg
+enotari.minjust.gov.kg
+zb.gov.kg
+online.minjust.gov.kg
+fgi.gov.kg
+en.minjust.gov.kg
+toktogulgorkenesh.gov.kg
+ns01.edu.gov.kg
+ns02.edu.gov.kg
+karasaev.gov.kg
+kyzyl-ozgorush.gov.kg
+old.ppp.gov.kg
+mail.basma.gov.kg
+mail.export.gov.kg
+mail.it.gov.kg
+probation.gov.kg
+mail.tunduk.gov.kg
+ak-suu-aa.gov.kg
+orto.gov.kg
+e.gov.kg
+edu.shailoo.gov.kg
+baetov-aa.gov.kg
+cmsedge.transcom.gov.kg
+tstk.customs.gov.kg
+nlkr.gov.kg
+pochva.gov.kg
+el1.sec.cert.gov.kg
+dev.online.dpa.gov.kg
+ns1.mvd.gov.kg
+map.tourism.gov.kg
+agroprod.gov.kg
+mkit.e.gov.kg
+geonode.water.gov.kg
+nlkr.e.gov.kg
+www.abdysuerkulov.gov.kg
+rb.agro.gov.kg
+ns2.mlsp.gov.kg
+probadm.probation.gov.kg
+kg.gvfi.gov.kg
+mail.gknb.gov.kg
+admin.indicators.water.gov.kg
+zakupki.gov.kg
+cem-dev.103.gov.kg
+mail.cholpon-ata-ao.gov.kg
+mail.mchs.gov.kg
+mail.orto.gov.kg
+1227.mlsp.gov.kg
+toguz-toro.gov.kg
+mail.toluk-ao.gov.kg
+test.tunduk.gov.kg
+wuse.water.gov.kg
+www.cgsn.gov.kg
+mail.chuy-arhitektura.gov.kg
+plomba.customs.gov.kg
+mail.kyrgyzkomur.gov.kg
+child.mlsp.gov.kg
+mtd.gov.kg
+freepbx.103.gov.kg
+mektep.edu.gov.kg
+reestr.kca.gov.kg
+pilotcbd.minjust.gov.kg
+suu-bashy.gov.kg
+talas.gov.kg
+indicators.water.gov.kg
+bazar-korgon.gov.kg
+kb1.sec.cert.gov.kg
+drug.gvfi.gov.kg
+gbd.mlsp.gov.kg
+newess.shailoo.gov.kg
+apnip.water.gov.kg
+www.apnip.water.gov.kg
+office.agro.gov.kg
+kg-eu.mlsp.gov.kg
+www.portal.water.gov.kg
+mail.aids.gov.kg
+antimonopolia.gov.kg
+dev-edu.dpa.gov.kg
+naryn-raiadmin.gov.kg
+register.minjust.gov.kg
+ss-minjust.tunduk.gov.kg
+mz.e.gov.kg
+kp.e.gov.kg
+www.water.gov.kg
+greenenergy.gov.kg
+e.kca.gov.kg
+ns01.transcom.gov.kg
+24.103.gov.kg
+adal.gov.kg
+ns1.forest.gov.kg
+ns2.mfa.gov.kg
+ss-customs.tunduk.gov.kg
+learn.aids.gov.kg
+apipnr.gov.kg
+cloud.dpa.gov.kg
+emis.edu.gov.kg
+naskr.gov.kg
+ns2.customs.gov.kg
+dpa.gov.kg
+kdtp.gov.kg
+check.uslugi.gov.kg
+sary-bulun.gov.kg
+portal.water.gov.kg
+imap.ordo.gov.kg
+www.joldor.gov.kg
+kitep.edu.gov.kg
+mail.jalal-abad.gov.kg
+ns1.koomtalkuu.gov.kg
+smtp.ordo.gov.kg
+pi.customs.gov.kg
+www.elicense.gov.kg
+2020.edu.gov.kg
+cec.shailoo.gov.kg
+konkurs.edu.gov.kg
+doc.aids.gov.kg
+ns2.it.gov.kg
+minenergo.gov.kg
+mkit.gov.kg
+auction.nas.gov.kg
+e-talapker.shailoo.gov.kg
+ala-buga.gov.kg
+mail.batken.gov.kg
+mail.digital.gov.kg
+vc.emed.gov.kg
+mail.sk.gov.kg
+mail.toguz-toro.gov.kg
+digital.agro.gov.kg
+etp.gov.kg
+ns1.fgi.gov.kg
+gsm.e.gov.kg
+dev-quiz.dpa.gov.kg
+mkk.gov.kg
+toluk-ao.gov.kg
+bugs.ordo.gov.kg
+elicense.gov.kg
+mail.karkyra.gov.kg
+standarts.nism.gov.kg
+tandoo.gov.kg
+www.bozuchuk.gov.kg
+th.sec.cert.gov.kg
+jalal-abadobl.gov.kg
+kk.mfa.gov.kg
+p.103.gov.kg
+www.mvd.gov.kg
+cabinet.mektep.edu.gov.kg
+ns1.tunduk.gov.kg
+ordo.gov.kg
+tamakash.edu.gov.kg
+gknb.gov.kg
+git.emed.gov.kg
+www.kyrgyzkomur.gov.kg
+mail.aidarken.gov.kg
+ns2.bazar-korgon.gov.kg
+cert.test.dpa.gov.kg
+foms.e.gov.kg
+aits.gvfi.gov.kg
+cert.okuu.dpa.gov.kg
+mail.mvd.gov.kg
+ton.gov.kg
+www.avtozhol.gov.kg
+osh.gov.kg
+enp.customs.gov.kg
+lebedinovka-ao.gov.kg
+zalog.minjust.gov.kg
+residence2.gov.kg
+toktogul.gov.kg
+economy.gov.kg
 
 
-相关的ip---------------------------------2024-06-20 14:51
-195.12.114.75
-92.46.186.36
-5.188.242.226
-91.214.42.27
-195.12.113.2
-91.214.42.150
-195.12.114.18
-195.12.113.59
-195.12.113.50
-195.12.114.94
-85.29.132.91
-195.12.123.41
-45.86.82.155
-77.245.99.68
-93.185.75.49
-89.219.34.38
-62.32.78.5
-94.141.230.134
-195.210.46.56
-212.154.200.86
-5.188.242.238
-87.255.213.147
-87.255.213.107
-195.12.114.78
-37.150.207.88
-212.154.167.194
-195.12.123.116
-151.236.196.244
-95.59.235.71
-195.12.113.3
-176.98.232.163
-195.210.46.115
-94.141.238.120
-194.146.43.47
-176.98.231.164
-185.125.88.157
-194.39.65.21
-92.47.181.173
-86.107.199.38
-185.102.73.210
-89.218.65.137
-212.154.238.124
-212.154.238.126
-89.46.33.102
-89.218.64.114
-195.210.47.109
-89.218.65.135
-2.135.20.230
-193.193.225.20
-92.46.122.155
-194.39.65.15
-194.146.42.46
-185.146.3.215
-195.12.114.129
-91.246.102.163
-89.218.65.172
-45.136.59.178
-5.188.242.129
-195.12.114.128
-94.141.238.106
-94.141.238.29
-89.28.129.26
-92.46.122.156
-185.98.7.104
-37.151.73.210
-193.43.250.99
-185.143.22.195
-87.255.213.216
-195.12.114.11
-91.185.28.160
-89.40.58.43
-82.200.210.251
-195.12.114.139
-95.216.86.246
-195.12.123.42
-185.98.5.170
-89.218.65.132
-195.12.114.174
-82.200.233.70
-94.141.238.125
-195.12.113.60
-176.98.231.171
-185.116.195.192
-94.141.238.103
-93.185.75.50
-87.255.213.217
-5.188.242.234
-194.4.56.90
-195.12.113.68
-92.46.61.219
-82.200.233.11
-87.255.210.14
-88.204.217.162
-88.204.195.98
-82.200.233.3
-94.141.238.123
-87.255.213.193
-185.206.180.218
-195.12.114.232
-89.218.64.194
-94.141.238.122
-91.185.19.188
-91.185.28.170
-195.12.114.59
-195.12.123.40
-195.12.113.110
-95.57.119.178
-91.185.19.180
-91.246.102.174
-178.89.6.202
-195.12.113.194
-185.143.21.235
-195.12.114.97
-78.140.245.131
-185.98.5.228
-195.12.114.0
-82.200.162.243
-94.141.238.81
-185.136.98.224
-195.12.113.47
-185.136.96.224
-92.46.125.36
-84.240.246.93
-94.247.133.35
-178.90.223.202
-195.210.46.64
-87.255.213.109
-89.219.21.178
-87.255.213.106
-185.143.21.230
-89.218.65.168
-195.12.114.228
-91.214.42.160
-89.40.59.246
-195.12.113.48
-151.236.195.22
-212.154.168.5
-195.12.113.51
-212.154.245.138
-82.200.198.10
-5.188.67.72
-119.12.114.75
-92.46.61.211
-195.12.114.159
-87.255.213.108
-89.219.30.186
-83.97.77.187
-89.218.65.142
-185.121.82.144
-5.188.246.83
-193.43.250.109
-185.143.22.205
-78.140.246.70
-212.154.234.166
-78.140.246.127
-78.140.246.129
-185.233.3.85
-82.200.233.73
-185.120.77.169
-86.107.44.244
-94.141.238.121
-95.141.139.235
-5.188.246.82
-195.210.46.48
-195.12.113.64
-94.141.238.124
-88.204.243.51
-198.89.95.234
-195.12.124.17
-91.185.5.182
-82.200.168.248
-195.12.114.243
-91.246.102.166
-178.90.223.201
-195.12.114.182
-88.204.210.234
-178.89.7.195
-212.154.167.196
-82.200.168.247
-95.141.139.234
-91.214.42.161
-195.12.123.39
-89.218.65.129
-195.12.114.22
-一共搜集到 184 个ip
+10.222.222.106/24
+104.21.34.134/24
+104.21.45.244/24
+104.21.54.177/24
+104.21.64.119/24
+104.21.68.55/24
+104.21.73.159/24
+104.21.81.38/24
+139.162.143.47/24
+141.8.192.31/24
+141.8.195.33/24
+146.120.212.34/24
+172.104.154.21/24
+172.67.161.132/24
+172.67.163.217/24
+172.67.168.199/24
+172.67.184.18/24
+172.67.187.189/24
+172.67.188.41/24
+172.67.221.37/24
+176.126.165.71/24
+176.126.167.65/24
+178.216.209.58/24
+178.216.215.100/24
+178.217.169.254/24
+185.138.184.45/24
+185.215.4.57/24
+185.229.36.108/24
+185.229.37.8/24
+185.26.122.80/24
+185.29.185.68/24
+195.38.162.93/24
+195.38.166.156/24
+195.38.168.118/24
+195.38.189.99/24
+212.112.102.90/24
+212.112.103.205/24
+212.112.104.210/24
+212.112.106.232/24
+212.112.108.71/24
+212.112.112.89/24
+212.112.115.233/24
+212.112.127.131/24
+212.112.98.156/24
+212.2.227.194/24
+212.42.101.106/24
+212.42.102.211/24
+212.42.104.101/24
+212.42.106.67/24
+212.42.109.25/24
+212.42.113.176/24
+212.42.115.101/24
+212.42.121.66/24
+212.42.122.114/24
+213.109.64.56/24
+213.109.67.182/24
+213.145.129.29/24
+213.145.141.120/24
+213.145.147.157/24
+213.145.155.123/24
+213.145.157.163/24
+217.29.19.68/24
+217.29.21.65/24
+31.186.48.216/24
+31.186.54.236/24
+31.186.54.43/24
+37.218.242.42/24
+45.130.41.121/24
+45.88.197.18/24
+46.17.175.17/24
+52.98.40.40/24
+52.98.77.120/24
+52.98.84.88/24
+52.98.90.8/24
+77.235.14.67/24
+77.235.17.166/24
+80.72.180.131/24
+81.88.194.28/24
+81.88.197.181/24
+83.220.168.165/24
+85.113.0.142/24
+85.113.1.35/24
+85.113.15.241/24
+85.113.17.189/24
+85.113.18.172/24
+85.113.2.45/24
+85.113.25.26/24
+85.113.27.221/24
+85.113.28.243/24
+87.236.16.236/24
+91.205.50.145/24
+91.207.28.108/24
+92.245.116.53/24
+92.53.96.147/24
+92.62.72.170/24
+92.62.73.78/24
+92.63.177.160/24
+94.143.192.213/24
+
+
 [0m
-[ https://reg.gov.kz |  | Apache | 200 | 1217 |  ]
-[ https://www.reg.gov.kz |  | Apache | 200 | 1217 |  ]
-[ https://esep-kst.gov.kz |  | nginx | 200 | 17308 | Хостинг создан, ожидаем сайт - PS.kz ]
-[ https://ks.gov.kz |  | nginx | 200 | 77643 | "Қазақстандық қамту" интернет порталы. ]
-[ https://3d-pol4.depzdrav.gov.kz |  | nginx | 404 | 564 | 404 Not Found ]
-[ https://www.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://api.doc.cts.gov.kz |  | nginx/1.18.0 (Ubuntu) | 500 | 145 | Server Error (500) ]
-[ https://export.gov.kz |  | nginx/1.14.0 (Ubuntu) | 200 | 192506 | Export-gov ]
-[ https://asm.ecogeo.gov.kz |  | nginx/1.14.0 (Ubuntu) | 502 | 182 | 502 Bad Gateway ]
-[ https://www.ks.gov.kz |  | nginx | 200 | 77643 | "Қазақстандық қамту" интернет порталы. ]
-[ https://map.gov.kz |  | nginx/1.23.2 | 200 | 53326 | Геопортал НИПД ]
-[ https://law.gov.kz |  | nginx | 200 | 179522 |  ]
-[ https://www.shymkent.gov.kz |  | nginx | 200 | 17308 | Хостинг создан, ожидаем сайт - PS.kz ]
-[38;2;237;64;35m[ https://root.gov.kz | WordPress | nginx | 200 | 54531 | КУЦ РК — Сайт Корневого Удостоверяющего центра Республики Казахстан ][0m
-[ https://mail.zhanlib.gov.kz |  | nginx | 200 | 424045 | Нұр-Сұлтан қаласының мемлекеттік академиялық филармониясы ]
-[ https://election.gov.kz |  | nginx | 200 | 468 | Официальный интернет-ресурс Центральной избирательной комиссии Республики Казахстан ]
-[ https://mail.aisoip-v2.adilet.gov.kz |  | nginx/1.20.2 | 403 | 555 | 403 Forbidden ]
-[ https://ts.depzdrav.gov.kz |  | nginx | 404 | 162 | 404 Not Found ]
-[38;2;237;64;35m[ https://check.irm.invest.gov.kz | HP iLO | None | 200 | 10746 |  ][0m
-[ https://eotinish.gov.kz |  | nginx/1.16.1 | 200 | 4891 | Единая платформа приема и обработки всех обращений граждан ]
-[ https://www.enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://sko.enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://cert.gov.kz |  | nginx/1.26.0 | 200 | 1447 | KZ-cert ]
-[38;2;237;64;35m[ https://almatyvet.gov.kz | WordPress,PHP | nginx/1.20.2 | 200 | 38164 | КГП на ПХВ "Городская ветеринарная служба" – КГП на ПХВ "Городская ветеринарная служба" ][0m
-[ https://qr.gov.kz |  | openresty | 200 | 140272 | qr.gov.kz ]
-[ https://akimat-talgar.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://denisovka.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://www.oblmed.gov.kz |  | nginx | 200 | 66974 | О больнице - Костанайская областная больница ]
-[38;2;237;64;35m[ https://www.baiterek.gov.kz | PHP | nginx | 200 | 159272 | «Бәйтерек» ұлттық басқарушы холдингі ][0m
-[ https://minio.doc.cts.gov.kz |  | nginx/1.18.0 (Ubuntu) | 502 | 166 | 502 Bad Gateway ]
-[ https://sci.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://dts.gov.kz | WordPress | nginx | 200 | 86290 | dts.gov.kz ][0m
-[ https://mod.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://pavlodar.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://blog.rkastana.gov.kz |  | nginx | 200 | 745 | IR.KZ Web Server's Default Page ]
-[ https://www.knb.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://webdisk.depzdrav.gov.kz |  | nginx | 404 | 564 | 404 Not Found ]
-[ https://zhambyl.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://privatization.invest.gov.kz |  | nginx | 404 | 548 | 404 Not Found ]
-[ https://www.ontustik.gov.kz |  | nginx | 404 | 146 | 404 Not Found ]
-[ https://ontustik.gov.kz |  | nginx | 404 | 146 | 404 Not Found ]
-[ https://mail.chso.gov.kz |  | nginx/1.20.2 | 200 | 11960 | Website skom.kz is ready. The content is to be added ]
-[ https://afmrk.gov.kz |  | nginx | 404 | 548 | 404 Not Found ]
-[ https://sud.gov.kz |  | nginx | 200 | 109908 | Қазақстан Республикасы Жоғарғы Соты ]
-[ https://www.maslihat.shahtinsk.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://almaty-region.invest.gov.kz |  | nginx | 200 | 929312 | Invest in Almaty region | Main ]
-[ https://www.map.gov.kz |  | nginx/1.23.2 | 200 | 53326 | Геопортал НИПД ]
-[ https://cabinet.stat.gov.kz |  | nginx/1.24.0 | 200 | 22476 | Респонденттің жеке кабинетіОшибка ]
-[ https://did.gov.kz |  | nginx | 200 | 2681 |  ]
-[ https://almaty.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://m.gov.kz | Microsoft OWA | ASP.NET | 200 | 1854 |  ][0m
-[38;2;237;64;35m[ https://autodiscover.m.gov.kz | Microsoft OWA | ASP.NET | 200 | 1893 |  ][0m
-[38;2;237;64;35m[ https://zhanlib.gov.kz | Yii框架 | nginx | 200 | 93075 | С. Сейфуллин атындағы Жаңаарқа ауданының орталықтандырылған кітапхана жүйесі ][0m
-[ https://interview.eqyzmet.gov.kz |  | nginx/1.18.0 (Ubuntu) | 200 | 44 |  ]
-[38;2;237;64;35m[ https://www.rkastana.gov.kz | PHP | nginx | 200 | 166586 | Астана қаласы бойынша Тексеру комиссиясы ][0m
-[ https://atyrau.enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://mail.m.gov.kz | Microsoft OWA | ASP.NET | 200 | 1869 |  ][0m
-[ https://epay.gov.kz |  | nginx | 200 | 17434 | 	Платежный Шлюз Электронного Правительства ]
-[ https://mail.esep-mangistau.gov.kz |  | nginx/1.20.2 | 200 | 11960 | Website skom.kz is ready. The content is to be added ]
-[ https://yar-kokshetau.akmo.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://www.maslikhat.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://old.goszakup.gov.kz |  | nginx | 200 | 2523 | 502 Error ]
-[ https://caa.gov.kz |  | nginx | 200 | 93220 | АО Авиационная администрация Казахстана ]
-[ https://www.pavlodar.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://www.aqmola.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://www.messages.depzdrav.gov.kz |  | nginx | 404 | 162 | 404 Not Found ]
-[ https://oblmaslihat.pavlodar.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://irm.invest.gov.kz | HP iLO | None | 200 | 10746 |  ][0m
-[ https://mail.shymkent.gov.kz |  | nginx | 200 | 48804 | Панель управления хостингом Plesk - Интернет-компания PS ]
-[ https://ebd.esep.gov.kz |  | nginx/1.18.0 | 200 | 1236 | Есеп комитетінің бірыңғай дерекқоры базасы ]
-[ https://fedorovka.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://ugask.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://bayzak.zhambyl.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://turkestan.invest.gov.kz |  | nginx | 200 | 929279 | Invest in Turkestan region | Main ]
-[ https://enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://mangystau.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://kooz.dsm.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://akm.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://krg.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://mail.bala.gov.kz | Plesk | nginx | 200 | 1438 |  ][0m
-[ https://densaulyk.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://test3.esf.kgd.gov.kz |  | nginx | 403 | 146 | 403 Forbidden ]
-[ https://altynsarin.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://mail.sqo.gov.kz |  | nginx | 200 | 13373 | Вход в веб-клиент Zimbra ]
-[ https://school-vpn.e-vko.gov.kz |  | None | 404 | 6603 | Not Found ]
-[ https://etp.adilet.gov.kz |  | None | 200 | 225910 |  ]
-[ https://tsp.pki.gov.kz |  | nginx | 200 | 1027 | Web Services ]
-[ https://mail.arkalyk.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://www.3d-pol4.depzdrav.gov.kz |  | nginx | 404 | 564 | 404 Not Found ]
-[ https://sqo.gov.kz |  | nginx | 200 | 13373 | Вход в веб-клиент Zimbra ]
-[ https://new.export.gov.kz |  | nginx/1.14.0 (Ubuntu) | 404 | 796 | HTTP Status 404 – Not Found ]
-[38;2;237;64;35m[ https://crl.pki.gov.kz | 列目录 | nginx | 200 | 1098 | Index of / ][0m
-[ https://ecogeo.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://e.gov.kz |  | nginx | 200 | 87877 | Қазақстан Республикасының Электрондық үкіметі | ]
-[ https://dsm.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://old.cbs-saran.gov.kz |  | nginx | 200 | 43819 | Басты бет - Саран қаласының «Орталықтандырылған кітапханалар жүйесі» КММ ]
-[ https://kgir-paris.invest.gov.kz |  | nginx | 200 | 116986 | Kazakhstan-French Business Forum ]
-[ http://proctor-coturn.eqyzmet.gov.kz |  | nginx/1.18.0 (Ubuntu) | 200 | 15 |  ]
-[38;2;237;64;35m[ https://ns2.esaran.gov.kz | Plesk,Plesk 面板 | nginx | 200 | 3849 | Web Server's Default Page ][0m
-[ https://maslikhat.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://akimvko.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://enbekvko.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://aisoip.adilet.gov.kz |  | nginx/1.20.2 | 200 | 1696 | АВТОМАТИЗИРОВАННАЯ ИНФОРМАЦИОННАЯ СИСТЕМА ОРГАНОВ ИСПОЛНИТЕЛЬНОГО ПРОИЗВОДСТВА Министерство юстиции Республики Казахстан ]
-[ https://mail.edu.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://mfa.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://baiterek.gov.kz | PHP | nginx | 200 | 159272 | «Бәйтерек» ұлттық басқарушы холдингі ][0m
-[ https://atr.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://eqyzmet.gov.kz |  | nginx | 200 | 21194 | Открытый портал EQYZMET ]
-[ https://karoblmaslihat.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://abai.invest.gov.kz |  | nginx | 200 | 929198 | Invest in Abai region | Main ]
-[ https://indigo.altynsarin.kostanay.gov.kz |  | Microsoft-IIS/8.5 | 403 | 1233 | 403 - Forbidden: Access is denied. ]
-[ https://akkol-archive.akmo.gov.kz |  | nginx | 200 | 73677 | «Ақкөл ауданының мемлекеттік архиві» КММ | Басты ]
-[ https://e-vko.gov.kz |  | nginx | 200 | 2606 | Сайт еще не готов. ]
-[ https://onlinetest.eqyzmet.gov.kz |  | nginx/1.14.0 (Ubuntu) | 200 | 18151 | Авторизация - Система прокторинга OES ]
-[ https://www.stat.gov.kz |  | nginx | 200 | 197016 | Қазақстан Республикасы Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы - Басты бет ]
-[ https://sko.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://atyrau.invest.gov.kz |  | nginx | 200 | 929202 | Invest in Atyrau  region | Main ]
-[ https://archiv.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://sudexpert.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://rcgi.geology.gov.kz | PHP | nginx/1.20.2 | 200 | 138307 | Главная         - Conco ][0m
-[ https://selinograd.akmo.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://infonpo.gov.kz |  | Apache-Coyote/1.1 | 200 | 66106 | Главная страница - База данных НПО ]
-[38;2;237;64;35m[ https://forensic.gov.kz | WordPress,PHP | nginx/1.20.2 | 200 | 126140 | Басты бет - Сот сараптамалары орталығы ][0m
-[ https://proctor.eqyzmet.gov.kz |  | nginx/1.18.0 (Ubuntu) | 200 | 18015 | Авторизация - Система прокторинга OES ]
-[ https://lyncdiscover.m.gov.kz |  | Microsoft-IIS/8.0 | 502 | 1477 | 502 - Web server received an invalid response while acting as a gateway or proxy server. ]
-[ https://cb-celin.akmo.gov.kz |  | nginx | 200 | 38672 | ЦЕЛИНОГРАД АУДАНЫНЫҢ МӘДЕНИЕТ, ТІЛДЕРДІ ДАМЫТУ, ДЕНЕ ШЫНЫҚТЫРУ ЖӘНЕ СПОРТ БӨЛІМІНІҢ «ОРТАЛЫҚТАНДЫРЫЛҒАН КІТАПХАНА ЖҮЙЕСІ» КОММУНАЛДЫҚ МЕМЛЕКЕТТІК МЕКЕМЕСІ | Басты ]
-[38;2;237;64;35m[ https://mail.mod.gov.kz | Outlook Web Application,Outlook | Microsoft-IIS/10.0 | 200 | 27976 | Outlook ][0m
-[ https://aktobe.invest.gov.kz |  | nginx | 200 | 929248 | Invest in Aktobe region | Main ]
-[ https://oos.ecogeo.gov.kz |  |  | 200 | 75708 | EИС ООС ]
-[ https://full.karaganda-region.gov.kz |  | nginx | 403 | 162 | 403 Forbidden ]
-[ https://esub.kostanay.gov.kz |  | nginx | 200 | 3513 | SimBASE 4 ]
-[ https://www.ugask.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://depzdrav.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://www.maslihat.kostregion.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://zakup.rkastana.gov.kz |  | nginx | 200 | 745 | IR.KZ Web Server's Default Page ]
-[ https://kgir2021.invest.gov.kz |  | nginx | 200 | 126302 | Kazakhstan Global Investment Roundtable ]
-[ https://ulytau.invest.gov.kz |  | nginx | 200 | 929282 | Invest in Ulytau region | Main ]
-[ https://www.karaganda-region.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://akt.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://eminfin.gov.kz |  | SAP J2EE Engine/7.01 | 200 | 96511 | Министерство финансов Республики Казахстан, е-МинФин ]
-[38;2;237;64;35m[ https://booking.bolashak.gov.kz | WordPress,PHP | nginx/1.20.2 | 200 | 22000 | BookingValidation ][0m
-[ https://oblmed.gov.kz |  | nginx | 200 | 66710 | О больнице - Костанайская областная больница ]
-[ https://aqmola.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://dvcs.dts.gov.kz |  | nginx | 200 | 413 | Certex3 responder v 2.0 ]
-[38;2;237;64;35m[ https://almaty.kgd.gov.kz | Drupal | nginx | 200 | 238114 | Алматы қаласы бойынша Мемлекеттік кірістер Департаменті | ][0m
-[38;2;237;64;35m[ https://kzl.kgd.gov.kz | Drupal | nginx | 200 | 261496 | Қызылорда облысы бойынша Мемлекеттік кірістер Департаменті | ][0m
-[ https://karaganda-region.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://kamisti.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://lyncmeet.m.gov.kz |  | Microsoft-IIS/8.0 | 200 | 1398 | Microsoft Internet Information Services 8 ]
-[ https://lyncdialin.m.gov.kz |  | Microsoft-IIS/8.0 | 200 | 1398 | Microsoft Internet Information Services 8 ]
-[38;2;237;64;35m[ https://garden.altynsarin.kostanay.gov.kz | Yii框架 | nginx | 200 | 86937 |  ][0m
-[38;2;237;64;35m[ https://cts.gov.kz | PHP | nginx/1.20.1 | 200 | 78706 | «City Transportation Systems» ЖШС ресми сайты - Басты бет ][0m
-[ https://kzl.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://dataukimet.gov.kz |  | nginx | 200 | 11707 | FSM SOCIAL ]
-[ https://int.school.altynsarin.kostanay.gov.kz |  | Microsoft-IIS/8.5 | 200 | 17511 | 1С:Предприятие ]
-[ https://pavlodar.invest.gov.kz |  | nginx | 200 | 929300 | Invest in Pavlodar region | Main ]
-[ https://m.rkastana.gov.kz |  | nginx | 200 | 745 | IR.KZ Web Server's Default Page ]
-[38;2;237;64;35m[ https://copy.inva.gov.kz | PHP | Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/7.1.8 mod_perl/2.0.9dev Perl/v5.16.3 | 200 | 2244903 | Главная  | inva.gov.kz Кресло-арбалармен қозғалатын адамдар үшін 16141 объекті қолжетімдіЕсту қабілетінен айрылған адамдар үшін 17326 объекті қолжетімдіКөру қабілеті бұзылған адамдар үшін 16340 объекті қолжетімдіТірек-қимыл аппараты бұзылған адамдар үшін 16307 объекті қолжетімдіКресло-арбалармен қозғалатын адамдар үшін 26403 объекті ішінара қолжетімдіЕсту қабілетінен айрылған адамдар үшін 21220 объекті ішінара қолжетімдіКөру қабілеті бұзылған адамдар үшін 25660 объекті ішінара қолжетімдіТірек-қимыл аппараты бұзылған адамдар үшін 25931 объекті ішінара қолжетімдіКресло-арбалармен қозғалатын адамдар үшін 1 объекті қолжетімді емесЕсту қабілетінен айрылған адамдар үшін 2525 объекті қолжетімді емесКөру қабілеті бұзылған адамдар үшін 13 объекті қолжетімді емесТірек-қимыл аппараты бұзылған адамдар үшін 3 объекті қолжетімді емес ][0m
-[38;2;237;64;35m[ https://ns1.esaran.gov.kz | Plesk,Plesk 面板 | nginx | 200 | 3849 | Web Server's Default Page ][0m
-[38;2;237;64;35m[ https://mail2.bolashak.gov.kz | Outlook Web Application,Outlook | Microsoft-IIS/10.0 | 200 | 27988 | Outlook ][0m
-[ https://edu.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://www.inva.gov.kz |  | nginx/1.18.0 | 200 | 15681 | «Социальная защита лиц с инвалидностью» ]
-[ https://eokno.kgd.gov.kz |  | nginx | 200 | 121446 | Экспорттық-импорттық операциялар үшін Қазақстан Республикасының Бірыңғай терезесі ]
-[ https://ows.goszakup.gov.kz |  | nginx | 200 | 65252 | Унифицированные сервисы ]
-[ https://wiki.goszakup.gov.kz |  | nginx | 200 | 65933 | Справка - Справка - База знаний ]
-[ https://qamqor.gov.kz |  | nginx/1.18.0 (Ubuntu) | 200 | 4109 | ҚР БП ҚСжАЕК ]
-[ https://www.qamqor.gov.kz |  | nginx/1.18.0 (Ubuntu) | 200 | 4109 | ҚР БП ҚСжАЕК ]
-[ https://www.umckrg.gov.kz |  | nginx | 200 | 57690 | Учебно-методический центр развития образования Карагандинской области - Главная страница ]
-[38;2;237;64;35m[ https://www.pki.gov.kz | WordPress,PHP | nginx | 200 | 58002 | Национальный удостоверяющий центр Республики Казахстан ][0m
-[ https://minfin.gov.kz |  | SAP J2EE Engine/7.01 | 200 | 96567 | Министерство финансов Республики Казахстан, е-МинФин ]
-[ https://akmola.enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://astana.invest.gov.kz |  | nginx | 200 | 929143 | Invest in Astana | Main ]
-[ https://shymkent.invest.gov.kz |  | nginx | 200 | 929196 | Invest in Shymkent | Main ]
-[ https://www.gis.geology.gov.kz |  | Microsoft-IIS/10.0 | 200 | 703 | IIS Windows Server ]
-[ https://www.almaty.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://iszh.gov.kz |  | Microsoft-IIS/10.0 | 200 | 3157 | Iszh ]
-[38;2;237;64;35m[ https://mail.cts.gov.kz | Outlook Web Application,Outlook | Microsoft-IIS/10.0 | 200 | 27976 | Outlook ][0m
-[38;2;237;64;35m[ https://invest07.gov.kz | Joomla | nginx | 200 | 64700 | Главная - Инвестиционный портал ЗКО ][0m
-[ https://www.sgork.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://moderation.did.gov.kz |  | nginx | 403 | 146 | 403 Forbidden ]
-[38;2;237;64;35m[ https://pki.gov.kz | WordPress,PHP | nginx | 200 | 58002 | Национальный удостоверяющий центр Республики Казахстан ][0m
-[ https://null.depzdrav.gov.kz |  | nginx | 404 | 564 | 404 Not Found ]
-[ https://mangystau.invest.gov.kz |  | nginx | 200 | 929299 | Invest in Mangistau region | Main ]
-[ https://mail.amangeldy.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://mx1.eps.ie.gov.kz |  | nginx/1.18.0 | 200 | 2244904 | Главная  | inva.gov.kz Кресло-арбалармен қозғалатын адамдар үшін 16146 объекті қолжетімдіЕсту қабілетінен айрылған адамдар үшін 17332 объекті қолжетімдіКөру қабілеті бұзылған адамдар үшін 16346 объекті қолжетімдіТірек-қимыл аппараты бұзылған адамдар үшін 16312 объекті қолжетімдіКресло-арбалармен қозғалатын адамдар үшін 26395 объекті ішінара қолжетімдіЕсту қабілетінен айрылған адамдар үшін 21213 объекті ішінара қолжетімдіКөру қабілеті бұзылған адамдар үшін 25652 объекті ішінара қолжетімдіТірек-қимыл аппараты бұзылған адамдар үшін 25924 объекті ішінара қолжетімдіКресло-арбалармен қозғалатын адамдар үшін 1 объекті қолжетімді емесЕсту қабілетінен айрылған адамдар үшін 2524 объекті қолжетімді емесКөру қабілеті бұзылған адамдар үшін 13 объекті қолжетімді емесТірек-қимыл аппараты бұзылған адамдар үшін 3 объекті қолжетімді емес ]
-[38;2;237;64;35m[ https://school.fedorovka.kostanay.gov.kz | Yii框架,PHP | Microsoft-IIS/8.5 | 200 | 48267 | Балаларды Фёдоров ауданы жалпы білім беретін мекемелеріне қабылдау және ауыстыру ][0m
-[ https://gis.geology.gov.kz |  | Microsoft-IIS/10.0 | 200 | 703 | IIS Windows Server ]
-[ https://emer.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://nws1.enbek.gov.kz | PHP | Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips SVN/1.7.14 PHP/7.3.33 mod_jk/1.2.48 | 200 | 28127 | Вход | Паспорт.enbek.kz ][0m
-[38;2;237;64;35m[ https://barcef2016.bolashak.gov.kz | PHP | nginx/1.20.2 | 200 | 64694 | Главная         - Conco ][0m
-[38;2;237;64;35m[ https://old.bolashak.gov.kz | WordPress,PHP | nginx/1.20.2 | 200 | 32303 | АО "Центр международных программ" | WP ][0m
-[ https://goszakup.gov.kz |  | nginx | 200 | 71978 | Государственные закупки Республики Казахстан ]
-[38;2;237;64;35m[ https://pda.enbek.gov.kz | PHP | nginx/1.25.4 | 200 | 160098 | Басты бет - Қазтұтынуодағы Қарағанды университет ][0m
-[ https://shymkent.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://indigo.amangeldy.kostanay.gov.kz |  | Microsoft-IIS/8.5 | 403 | 1233 | 403 - Forbidden: Access is denied. ]
-[ https://mail.biblioteka-aktogai.gov.kz |  | nginx/1.20.2 | 403 | 555 | 403 Forbidden ]
-[38;2;237;64;35m[ https://pda.goszakup.gov.kz | PHP | nginx | 400 | 68 |  ][0m
-[ https://kz2050.gov.kz |  | nginx/1.14.2 | 200 | 6751 | kz2050 ]
-[38;2;237;64;35m[ http://akb.kgd.gov.kz | Drupal | nginx | 200 | 235100 | Ақтөбе облысы бойынша Мемлекеттік кірістер Департаменті | ][0m
-[ https://akmola.invest.gov.kz |  | nginx | 200 | 929153 | Invest in Akmola region | Main ]
-[ https://karatobemaslihat.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://bko.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://bala.gov.kz |  | nginx | 200 | 49119 | Главная - Balaqorgau ]
-[38;2;237;64;35m[ https://nordic.invest.gov.kz | Plesk,Plesk 面板 | nginx | 200 | 19058 | Домен припаркован в Казахстане - PS.kz ][0m
-[ https://zhmb.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://vetlab.gov.kz |  | Microsoft-IIS/10.0 | 200 | 4650 | VetLab ]
-[ https://saraptama.adilet.gov.kz |  | nginx | 200 | 816 | E-Saraptama ]
-[ https://2017.karaganda-region.gov.kz |  | nginx | 403 | 564 | 403 Forbidden ]
-[ https://nkr.invest.gov.kz |  | nginx | 200 | 929218 | Invest in North Kazakhstan region | Main ]
-[38;2;237;64;35m[ https://rkastana.gov.kz | PHP | nginx | 200 | 166586 | Астана қаласы бойынша Тексеру комиссиясы ][0m
-[ https://eokno.gov.kz |  | nginx | 200 | 121443 | Экспорттық-импорттық операциялар үшін Қазақстан Республикасының Бірыңғай терезесі ]
-[ https://jetisu.invest.gov.kz |  | nginx | 200 | 929203 | Invest in Zhetisu region | Main ]
-[38;2;237;64;35m[ https://e-catalog.gov.kz | Shiro | nginx/1.18.0 | 200 | 4203 | ЭКТ | Электронный каталог товаров ][0m
-[38;2;237;64;35m[ http://nursultan.kgd.gov.kz | Drupal | nginx | 200 | 263869 | Қазақстан Республикасы Қаржы министрлігінің Мемлекеттік кірістер комитеті | ][0m
-[ https://mail3.bolashak.gov.kz |  | nginx | 200 | 400 | Kaspersky Secure Mail Gateway ]
-[38;2;237;64;35m[ https://kgd.gov.kz | Drupal | nginx | 200 | 262939 | Қазақстан Республикасы Қаржы министрлігінің Мемлекеттік кірістер комитеті | ][0m
-[ https://celin-archive.akmo.gov.kz |  | nginx | 200 | 67979 | Ақмола облысының цифрландыру және архивтер басқармасының «Целиноград ауданының мемлекеттік архиві» коммуналдық мемлекеттік мекемесі».  | Басты ]
-[ https://lyncextweb.m.gov.kz |  | Microsoft-IIS/8.0 | 502 | 1477 | 502 - Web server received an invalid response while acting as a gateway or proxy server. ]
-[ https://amangeldy.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://biblioteka-aktogai.gov.kz | PHP | nginx/1.20.2 | 200 | 76739 | — "Ақтоғай ауданының орталықтандырылған кітапхана жүйесі" мемлекеттік мекемесі ][0m
-[ https://www.null.depzdrav.gov.kz |  | nginx | 404 | 564 | 404 Not Found ]
-[ https://online.bko.gov.kz |  | nginx | 200 | 6687 | Хостинг аккаунт приостановлен ]
-[38;2;237;64;35m[ http://shymkent.kgd.gov.kz | Drupal | nginx | 200 | 236420 | Шымкент қаласы бойынша Мемлекеттік кірістер департаменті | ][0m
-[38;2;237;64;35m[ https://new-admin.export.gov.kz | Angular IO (AngularJS) | nginx/1.14.0 (Ubuntu) | 200 | 832 | ExportCms ][0m
-[ https://int.school.arkalyk.kostanay.gov.kz |  | Microsoft-IIS/8.5 | 200 | 17508 | 1С:Предприятие ]
-[ https://www.oblmaslihat.pavlodar.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://indigo.arkalyk.kostanay.gov.kz |  | Microsoft-IIS/8.5 | 403 | 1233 | 403 - Forbidden: Access is denied. ]
-[ https://v3bl.goszakup.gov.kz |  | nginx | 403 | 146 | 403 Forbidden ]
-[ https://shymkent.gov.kz |  | nginx | 200 | 17308 | Хостинг создан, ожидаем сайт - PS.kz ]
-[ https://kostanay.enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://oko.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://maslihat.kostregion.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://mail.cbs-saran.gov.kz | Plesk | nginx | 200 | 1438 |  ][0m
-[ https://wkr.invest.gov.kz |  | nginx | 200 | 929282 | Invest in West Kazakhstan  region | Main ]
-[ https://economy.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://school.amangeldy.kostanay.gov.kz | Yii框架,PHP | Microsoft-IIS/8.5 | 200 | 48260 | Балаларды Амангелді ауданы жалпы білім беретін мекемелеріне қабылдау және ауыстыру ][0m
-[ https://dutch.invest.gov.kz |  | nginx | 200 | 121027 | Kazakhstan-Netherlands Agribusiness Roundtable ]
-[ https://int.school.fedorovka.kostanay.gov.kz |  | Microsoft-IIS/8.5 | 200 | 17508 | 1С:Предприятие ]
-[ https://indigo.fedorovka.kostanay.gov.kz |  | Microsoft-IIS/8.5 | 403 | 1233 | 403 - Forbidden: Access is denied. ]
-[ https://isca.gov.kz |  | nginx/1.14.1 | 200 | 2141 | Welcome to isca.gov.kz ]
-[ https://www.invest.gov.kz |  | nginx | 200 | 954724 | Invest In Kazakhstan | Main ]
-[ https://jitsi.bolashak.gov.kz |  | nginx/1.21.6 | 200 | 24640 | Jitsi Meet ]
-[ https://kodb.gov.kz |  | nginx | 200 | 22291 | Костанайская областная детская больница ]
-[ http://test4.esf.kgd.gov.kz |  | nginx | 403 | 146 | 403 Forbidden ]
-[ https://cpanel.depzdrav.gov.kz |  | nginx | 404 | 564 | 404 Not Found ]
-[ https://new-api.export.gov.kz |  | nginx/1.14.0 (Ubuntu) | 404 | 796 | HTTP Status 404 – Not Found ]
-[ https://almaty.enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://pavlodar.enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://esf.gov.kz |  | nginx | 200 | 1516 | Информационная Система Электронных Счетов-Фактур ]
-[ https://map.invest07.gov.kz |  | nginx | 200 | 84086 |  ]
-[ https://chso.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://mail.aqmola.gov.kz |  | nginx | 200 | 13043 | Zimbra Web Client Sign In ]
-[38;2;237;64;35m[ http://alm.kgd.gov.kz | Drupal | nginx | 200 | 276141 | Алматы облысы бойынша Мемлекеттік кірістер Департаменті | ][0m
-[ https://iz.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ http://akm.kgd.gov.kz | Drupal | nginx | 200 | 214592 | Ақмола облысы бойынша Мемлекеттік кірістер Департаменті | ][0m
-[ https://mail.archiv.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://zan.gov.kz |  | nginx | 200 | 179522 |  ]
-[38;2;237;64;35m[ http://kst.kgd.gov.kz | Drupal | nginx | 200 | 150776 | Қостанай облысы бойынша Мемлекеттік кірістер Департаменті | ][0m
-[ https://webmail.depzdrav.gov.kz |  | nginx | 404 | 564 | 404 Not Found ]
-[ https://sailau.e-vko.gov.kz |  | nginx | 403 | 4897 | Apache HTTP Server Test Page powered by CentOS ]
-[38;2;237;64;35m[ https://esep-mangistau.gov.kz | PHP | nginx/1.20.2 | 200 | 74 |  ][0m
-[ https://cabinet.bolashak.gov.kz |  | nginx/1.14.1 | 200 | 750 | 500 учёных ]
-[ https://srvz.goszakup.gov.kz |  | nginx/1.22.0 | 200 | 0 |  ]
-[ https://int.school.amangeldy.kostanay.gov.kz |  | Microsoft-IIS/8.5 | 200 | 17510 | 1С:Предприятие ]
-[38;2;237;64;35m[ https://astana.kgd.gov.kz | Drupal | nginx | 200 | 247781 | Астана қаласы бойынша Мемлекеттік Кірістер Департаменті | ][0m
-[38;2;237;64;35m[ http://garden.oouk.vko.gov.kz | Yii框架 | nginx | 200 | 86937 |  ][0m
-[ https://www.clone.depzdrav.gov.kz |  | nginx | 404 | 162 | 404 Not Found ]
-[ https://umckrg.gov.kz |  | nginx | 200 | 57690 | Учебно-методический центр развития образования Карагандинской области - Главная страница ]
-[ https://almatybusiness.gov.kz |  | nginx | 426 | 0 |  ]
-[ https://proctor-media.eqyzmet.gov.kz |  | nginx/1.18.0 (Ubuntu) | 403 | 564 | 403 Forbidden ]
-[ http://blogs.e.gov.kz |  | nginx | 200 | 2187231 | Ашық диалог ]
-[ https://interview-live.eqyzmet.gov.kz |  | nginx | 200 | 12109 | BigBlueButton - Open Source Web Conferencing ]
-[ http://test1.esf.kgd.gov.kz |  | nginx | 403 | 548 | 403 Forbidden ]
-[ https://doc.cts.gov.kz |  | nginx/1.18.0 (Ubuntu) | 200 | 2084 | Автоматизации бизнес-процессов ]
-[ http://adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://elbasylibrary.gov.kz |  | nginx | 403 | 146 | 403 Forbidden ]
-[ https://auliekol.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ https://www.cbs-saran.gov.kz | WordPress | nginx | 200 | 169975 | Бас бет - «САРАН ҚАЛАСЫНЫҢ ОРТАЛЫҚТАНДЫРЫЛҒАН КІТАПХАНА ЖҮЙЕСІ» КММInstagramYouTubeFacebookVKSearchExpandExpandToggle MenuExpandExpandToggle Menu CloseSearch ][0m
-[ https://pvl.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://mail.int.school.altynsarin.kostanay.gov.kz |  | Microsoft-HTTPAPI/2.0 | 404 | 315 | Not Found ]
-[ http://knb.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ http://esaran.gov.kz | Yii框架,PHP | nginx | 200 | 28115 | Вход в административный модуль ][0m
-[38;2;237;64;35m[ http://fg.rfs.gov.kz | Plesk,Plesk 面板 | nginx | 200 | 4033 | Web Server's Default Page ][0m
-[38;2;237;64;35m[ http://atr.kgd.gov.kz | Drupal | nginx | 200 | 216105 | Атырау облысы бойынша Мемлекеттік кірістер Департаменті | ][0m
-[38;2;237;64;35m[ https://cbs-saran.gov.kz | WordPress | nginx | 200 | 169975 | Бас бет - «САРАН ҚАЛАСЫНЫҢ ОРТАЛЫҚТАНДЫРЫЛҒАН КІТАПХАНА ЖҮЙЕСІ» КММInstagramYouTubeFacebookVKSearchExpandExpandToggle MenuExpandExpandToggle Menu CloseSearch ][0m
-[ https://shko.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://mail.e-vko.gov.kz |  | nginx | 200 | 19058 | Домен припаркован в Казахстане - PS.kz ]
-[ https://mail.cts.gov.kz/.. |  | Microsoft-HTTPAPI/2.0 | 403 | 312 | Forbidden ]
-[ http://www.mod.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://oblarchive.atyrau.gov.kz |  | nginx/1.20.1 | 200 | 17225 | Ошибка 404 | BMC Web App | KDT ]
-[ https://stat.gov.kz |  | nginx | 200 | 197016 | Қазақстан Республикасы Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы - Басты бет ]
-[ https://oos.ecogeo.gov.kz/Account/ChangeCulture?lang= |  |  | 500 | 8496 | Object reference not set to an instance of an object. ]
-[ http://shahtinsk.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://www.akimat-talgar.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://kyzylorda.invest.gov.kz |  | nginx | 200 | 929232 | INVEST IN THE KYZYLORDA REGION | Main ]
-[ https://www.epay.gov.kz |  | nginx | 200 | 17434 | 	Платежный Шлюз Электронного Правительства ]
-[ https://nca.pki.gov.kz |  | nginx | 200 | 29467 | PKIKZ ]
-[ https://ereymen.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ http://vko.kgd.gov.kz | Drupal | nginx | 200 | 213811 | Шығыс-Қазақстан облысы бойынша Мемлекеттік кірістер Департаменті | ][0m
-[38;2;237;64;35m[ http://garden.fedorovka.kostanay.gov.kz | Yii框架 | nginx | 200 | 86937 |  ][0m
-[ http://r.e-vko.gov.kz |  | Microsoft-IIS/10.0 | 200 | 37963 | Здание бывшего Народного дома,в настоящее время областной драматический        театр им. Жамбыла, 1902 г. ]
-[ https://vmp.gov.kz |  | nginx | 200 | 4023 |  ]
-[ https://almaty.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://kostanay.invest.gov.kz |  | nginx | 200 | 929684 | Invest in Kostanay region | Main ]
-[ https://step-archive.akmo.gov.kz |  | nginx | 200 | 60082 | Ақмола облысы цифрландыру және архивтер басқармасының «степногорск қаласының мемлекеттік архиві» коммуналдық мемлекеттік мекемесі | Басты бет ]
-[ http://egsu.energo.gov.kz |  | nginx/1.20.1 | 200 | 223 |  ]
-[ https://aktobe.enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://arkalyk.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ https://mail.mod.gov.kz/.. |  | Microsoft-HTTPAPI/2.0 | 403 | 312 | Forbidden ]
-[ http://investkz.gov.kz |  | None | 200 | 3996 | NDIP ]
-[ http://mail.int.school.arkalyk.kostanay.gov.kz |  | Microsoft-HTTPAPI/2.0 | 404 | 315 | Not Found ]
-[38;2;237;64;35m[ http://www.biblioteka-aktogai.gov.kz | PHP | nginx/1.20.2 | 200 | 76739 | — "Ақтоғай ауданының орталықтандырылған кітапхана жүйесі" мемлекеттік мекемесі ][0m
-[38;2;237;64;35m[ http://garden.arkalyk.kostanay.gov.kz | Yii框架 | nginx | 200 | 86937 |  ][0m
-[ http://ocsp.pki.gov.kz |  | nginx | 200 | 5 |  ]
-[ http://mail.invest07.gov.kz |  | nginx | 200 | 1438 |  ]
-[ http://clone.depzdrav.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://mail.depzdrav.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://sgork.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://m.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://library.caa.gov.kz |  | nginx | 200 | 11370 | Админка Авиация ]
-[38;2;237;64;35m[ http://test.bko.gov.kz | Plesk,Plesk 面板 | nginx | 200 | 6687 | Хостинг аккаунт приостановлен ][0m
-[ http://mangystau.enbek.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://usko.kostanay.gov.kz |  | nginx | 200 | 1249 |  ]
-[ http://mng.adilet.gov.kz |  | nginx | 200 | 1249 |  ]
-[38;2;237;64;35m[ http://www.biblioteka-aktogai.gov.kz/kk/wap/1 | PHP | nginx/1.20.2 | 200 | 76607 | — Централизованная библиотечная система            Актогайского района ][0m
-[38;2;237;64;35m[ http://biblioteka-aktogai.gov.kz/kk/wap/1 | PHP | nginx/1.20.2 | 200 | 76607 | — Централизованная библиотечная система            Актогайского района ][0m
+[ https://mail.fsa.gov.kg |  | RainLoop | 200 | 1472 |  ]
+[38;2;237;64;35m[ http://map.avtozhol.gov.kg | PHP | nginx | 404 | 8739 | 404 :: Powered by Subrion 4.2 ][0m
+[ https://mail.toktogulgorkenesh.gov.kg |  | nginx | 200 | 12194 | Website ascorp.kg is ready. The content is to be added ]
+[38;2;237;64;35m[ https://kanysh-kya.gov.kg | WordPress,PHP | nginx-reuseport/1.21.1 | 200 | 21810 | Каныш-Кыя айыл өкмөтү ][0m
+[ https://ppp.gov.kg |  | ddos-guard | 200 | 328993 | Центр государственно-частного партнерства Кыргызской Республики ]
+[ https://privacy.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 6534 | Privacy Policy Generator ]
+[ https://mail.energoesep.gov.kg |  | nginx | 200 | 432 | Web Server's Default Page ]
+[ https://mes.gov.kg |  | nginx/1.14.1 | 403 | 3933 | Account disabled by server administrator ]
+[ https://web.gvfi.gov.kg |  | Apache | 500 | 527 | 500 Internal Server Error ]
+[ https://edugate.edu.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 884 | Абитуриент Главная | Онлайн ]
+[ https://cs.zakupki.gov.kg |  | nginx/1.10.3 | 404 | 169 | 404 Not Found ]
+[ https://cloud.gov.kg |  | nginx | 200 | 22739 | 			Login – Nextcloud		 ]
+[ https://edu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 67442 | Кыргыз Республикасынын Билим берүү жана илим министрлиги ]
+[ https://5.minculture.gov.kg |  | nginx | 403 | 199 | 403 Forbidden ]
+[ https://ibilim.edu.gov.kg |  | Apache/2.4.7 (Ubuntu) | 200 | 2501 | iBilim ]
+[ https://ns2.mnr.gov.kg |  | nginx | 200 | 166 |  ]
+[ https://license.edu.gov.kg |  | Microsoft-IIS/8.5 | 200 | 11745 | 	Электронное лицензирование образовательной деятельности в КР ]
+[ https://kk-test.mfa.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 1060 | Кыргыз Республикасынын тышкы иштер министирлиги ]
+[ https://it.gov.kg |  | None | 200 | 2434 | КЫРГЫЗ РЕСПУБЛИКАСЫНЫН БАШКЫ ПРОКУРАТУРАСЫ ]
+[ https://www.cloud.gov.kg |  | nginx | 400 | 19150 | 			Nextcloud		 ]
+[ https://nd.clod.cert.gov.kg |  | None | 200 | 156 |  ]
+[ https://mail.edu.gov.kg |  | nginx | 200 | 12308 | Zimbra Web Client Sign In ]
+[ https://do.gov.kg |  | None | 200 | 61822 | Дистанционное обучение ]
+[ https://cem24.103.gov.kg |  | nginx/1.24.0 | 200 | 77133 | Домен припаркован в Timeweb ]
+[ https://mmk.minjust.gov.kg |  | cloudflare | 521 | 6877 | mmk.minjust.gov.kg | 521: Web server is down ]
+[ https://www.at-bashy.gov.kg |  | nginx/1.18.0 (Ubuntu) | 403 | 284 | 403 Forbidden ]
+[ https://mail.balbay.gov.kg |  | nginx | 200 | 12194 | Website ascorp.kg is ready. The content is to be added ]
+[ https://okuu.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 53064 | DPA-Training Center ]
+[38;2;237;64;35m[ https://digital.gov.kg | WordPress | None | 200 | 69975 | Главная - Министерство цифрового развития Кыргызской Республики ][0m
+[ https://ns2.fgi.gov.kg |  | nginx/1.17.0 | 200 | 1131 | Фонд по управлению государственным имуществом при Правительстве Кыргызской Республики ]
+[ https://mail.mfa.gov.kg |  | nginx | 200 | 387 | Carbonio Authentication ]
+[ https://mail.gov.kg |  | nginx | 200 | 387 | Carbonio Authentication ]
+[ https://old.edu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 67442 | Кыргыз Республикасынын Билим берүү жана илим министрлиги ]
+[ https://mail.aat.gov.kg |  | Microsoft-IIS/8.5 | 200 | 150 |  ]
+[ https://www.gov.kg |  | nginx | 200 | 61567 | Башкы | Кыргыз Республикасынын Министрлер Кабинети ]
+[ https://mail.ysyk-ata.gov.kg |  | nginx/1.16.1 | 404 | 555 | 404 Not Found ]
+[38;2;237;64;35m[ https://smart.customs.gov.kg | Tomcat默认页面,Apache Tomcat | nginx/1.18.0 (Ubuntu) | 200 | 11210 | Apache Tomcat/9.0.80 ][0m
+[ https://www.it.gov.kg |  | None | 200 | 2434 | КЫРГЫЗ РЕСПУБЛИКАСЫНЫН БАШКЫ ПРОКУРАТУРАСЫ ]
+[38;2;237;64;35m[ https://backend.mfa.gov.kg | Yii框架 | None | 200 | 3317 | Авторизация ][0m
+[ https://ysyk-ata.gov.kg |  | nginx/1.16.1 | 403 | 289 | 403 Forbidden ]
+[ https://licensing.edu.gov.kg |  | nginx/1.18.0 | 404 | 555 | 404 Not Found ]
+[ https://www.gknb.gov.kg |  | cloudflare | 403 | 15506 | Just a moment... ]
+[38;2;237;64;35m[ https://mail.sudexpert.gov.kg | CommuniGate | CommuniGatePro/6.0.11 | 500 | 695 | Unknown Domain ][0m
+[ https://www.stat.gov.kg |  | nginx/1.2.1 | 200 | 105698 | Кыргыз Республикасынын Улуттук статистика комитети - Кыргызстандын Статистикасы ]
+[ https://asterisk.customs.gov.kg |  | nginx/1.18.0 (Ubuntu) | 403 | 564 | 403 Forbidden ]
+[ https://api.atp.gov.kg |  | nginx/1.18.0 (Ubuntu) | 401 | 57 |  ]
+[ https://exam.fsa.gov.kg |  | nginx/1.10.3 | 200 | 2729 | Госфиннадзор - официальный сайт ]
+[38;2;237;64;35m[ http://admin.koomtalkuu.gov.kg | PHP | Apache/2.4.37 (centos) PHP/7.4.12 | 404 | 898 | An Error Occurred: Not Found ][0m
+[ https://103.gov.kg |  | nginx/1.24.0 | 200 | 77133 | Домен припаркован в Timeweb ]
+[ https://tourism.gov.kg |  | openresty | 200 | 64349 | НПА - "Департамент туризма при Министерстве экономики и коммерции Кыргызской Республики ]
+[ https://mx.103.gov.kg |  | nginx/1.24.0 | 200 | 77133 | Домен припаркован в Timeweb ]
+[ https://mail.cert.gov.kg |  | nginx | 200 | 40210 | SOGo Groupware ]
+[38;2;237;64;35m[ https://naryn.gov.kg | PHP | nginx | 200 | 49683 | Кыргыз Республикасынын Президентинин Нарын облусундагы ыйгарым укуктуу өкүлүнүн аппаратынын расмий веб-сайты ][0m
+[ https://ns2.sudexpert.gov.kg |  | nginx | 200 | 24722 | HOSTING.KG ]
+[ https://mail.bayzak.gov.kg |  | nginx/1.16.1 | 404 | 153 | 404 Not Found ]
+[38;2;237;64;35m[ https://24.edu.gov.kg | PHP | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 401 | 64 |  ][0m
+[ https://ok.edu.gov.kg |  | openresty | 403 | 57278 | Ошибка 4030 ]
+[ https://nas.gov.kg |  | nginx | 200 | 59813 | ГАС        |                    Служба по регулированию и надзору в отрасли связи при Министерстве цифрового развития Кыргызской Республики. ]
+[ https://www.data.gov.kg |  | nginx/1.10.3 (Ubuntu) | 200 | 14931 | Добро пожаловать в - Open Data Kyrgyzstan ]
+[ https://probation.minjust.gov.kg |  | Apache/2.4.25 (Debian) | 200 | 41147 | Кыргыз Республикасынын Пробация департаменти ]
+[ https://www.ak-bulun.gov.kg |  | nginx/1.16.1 | 403 | 293 | 403 Forbidden ]
+[ https://jashtar.gov.kg |  | cloudflare | 200 | 947 | Жаштар саясаты ]
+[38;2;237;64;35m[ https://data.edu.gov.kg | PHP | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 200 | 2610 | OpenEMIS Dashboard ][0m
+[ https://ak-bulun.gov.kg |  | nginx/1.16.1 | 403 | 289 | 403 Forbidden ]
+[ https://energoesep.gov.kg |  | nginx | 200 | 432 | Web Server's Default Page ]
+[38;2;237;64;35m[ https://atp.gov.kg | React | nginx/1.18.0 (Ubuntu) | 200 | 700 | Автотранспортное Предприятие УД КР ][0m
+[38;2;237;64;35m[ https://agro.gov.kg | WordPress | nginx/1.18.0 (Ubuntu) | 200 | 1101045 | Кыргыз Республикасынын Суу ресурстары, айыл чарба жана кайра иштетүү өнөр жайы министрлиги ][0m
+[ https://gosexpertiza.gov.kg |  | None | 200 | 78764 | Гос экспертиза ]
+[ https://chuy-arhitektura.gov.kg |  | nginx | 200 | 2150 | Кыргыз Республикасынын Министрлер Кабинетине караштуу Архитектура, курулуш жана турак жай-коммуналдык чарба мамлекеттик агенттигинин Чүй регионалдык шаар куруу жана архитектура боюнча башкармалыгы ]
+[38;2;237;64;35m[ https://bozuchuk.gov.kg | PHP | nginx | 200 | 30663 | Главная - Боз-учук айылы ][0m
+[38;2;237;64;35m[ https://www.mfa.gov.kg | Yii框架 | None | 200 | 275266 | Башкы бет - Кыргыз Республикасынын Тышкы иштер министрлиги ][0m
+[ https://training.mlsp.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 1193 | Курс ]
+[38;2;237;64;35m[ https://www.mtd.gov.kg | WordPress,PHP | LiteSpeed | 200 | 64299 | Министерство транспорта и коммуникаций Кыргызской Республики ][0m
+[ http://religion.gov.kg |  | Apache/2.4.7 (Ubuntu) | 200 | 63920 | Государственная комиссия по делам религии Кыргызской Республики ]
+[ https://www.gsin.gov.kg |  | nginx | 200 | 135505 | СЛУЖБА ИСПОЛНЕНИЯ НАКАЗАНИЙ ПРИ МИНИСТЕРСТВЕ ЮСТИЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ ]
+[ https://www.auctionetp.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 1078 | Document ]
+[38;2;237;64;35m[ https://mail.oaouchkun.gov.kg | PHP | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ][0m
+[38;2;237;64;35m[ https://mail.mes.gov.kg | PHP | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ][0m
+[38;2;237;64;35m[ https://bot.blood.gov.kg | PHP | nginx | 200 | 647 |  ][0m
+[ https://mail.kiyal.gov.kg |  | nginx/1.16.1 | 404 | 555 | 404 Not Found ]
+[38;2;237;64;35m[ https://mamtil.gov.kg | PHP | nginx/1.20.1 | 200 | 64299 | Кыргыз Республикасынын Президентине караштуу <br/> Мамлекеттик тил жана тил саясаты боюнча улуттук комиссия ][0m
+[ https://account.mektep.edu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 8546 | Реестр аттестатов и свидетельств Кыргызской Республики ]
+[ https://passport.water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 200 | 685 | Водная информационная система - Паспортизация ]
+[ https://tunduk.gov.kg |  | Apache/2.4.18 (Ubuntu) | 200 | 29039 | «Түндүк»             — Система электронного межведомственного взаимодействия «Түндүк»             — Государственное учреждение «Түндүк» при Министерстве Цифрового развития Кыргызской Республики ]
+[38;2;237;64;35m[ https://sudexpert.gov.kg | WordPress | None | 200 | 202668 | Судебно-экспертная служба — при Министерстве юстиции Кыргызской Республики ][0m
+[38;2;237;64;35m[ https://ns1.mlsp.gov.kg | Plesk,Plesk 面板 | nginx | 200 | 3849 | Web Server's Default Page ][0m
+[ https://ds.edu.gov.kg |  | nginx | 200 | 14481 | Электронная Школа ]
+[ https://world.nas.gov.kg |  | nginx | 200 | 42835 | Государственное агенство связи при Государственном комитете информационных технологий и связи Кыргызской Республики ]
+[ https://mineconom.gov.kg |  | Apache/2.4.29 (Ubuntu) | 200 | 104549 | Кыргыз Республикасынын Экономика жана коммерция министрлиги ]
+[ https://water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 200 | 108540 | Главная ]
+[ https://dobolu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 403 | 278 | 403 Forbidden ]
+[38;2;237;64;35m[ https://balykchy.gov.kg | WordPress | openresty | 200 | 294604 | Инвестиционный портал город Балыкчы ][0m
+[ https://www.chuy-arhitektura.gov.kg |  | nginx | 200 | 2150 | Кыргыз Республикасынын Министрлер Кабинетине караштуу Архитектура, курулуш жана турак жай-коммуналдык чарба мамлекеттик агенттигинин Чүй регионалдык шаар куруу жана архитектура боюнча башкармалыгы ]
+[38;2;237;64;35m[ https://fsa.gov.kg | WordPress | nginx/1.10.3 | 200 | 278528 | СЛУЖБА РЕГУЛИРОВАНИЯ И НАДЗОРА ЗА ФИНАНСОВЫМ РЫНКОМ ПРИ МИНИСТЕРСТВЕ ЭКОНОМИКИ И КОММЕРЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ — СЛУЖБА РЕГУЛИРОВАНИЯ И НАДЗОРА ЗА ФИНАНСОВЫМ РЫНКОМ ПРИ МИНИСТЕРСТВЕ ЭКОНОМИКИ И КОММЕРЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ ][0m
+[38;2;237;64;35m[ https://wua.water.gov.kg | Angular IO (AngularJS) | nginx/1.10.3 (Ubuntu) | 200 | 681 | База данных АВП ][0m
+[ https://kargalyk.gov.kg |  | nginx/1.16.1 | 403 | 289 | 403 Forbidden ]
+[38;2;237;64;35m[ https://archives.gov.kg | PHP | nginx | 200 | 86905 | Башкы - Архивная служба при Министерстве цифрового развития Кыргызской Республики ][0m
+[ https://aat.gov.kg |  | nginx/1.20.1 | 200 | 25060 | Департамент наземного и водного транспорта-Департамент наземного и водного транспорта ]
+[ https://docs.minjust.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 759 | Архив документов ]
+[ https://ukuk-jardam.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 220323 | Мамлекет кепилдеген юридикалык жардам ]
+[38;2;237;64;35m[ https://nurmanbet.gov.kg | PHP | nginx | 200 | 40765 | Нурманбет айыл өкмөтүнүн расмий веб-сайты ][0m
+[ https://auth.gov.kg |  | nginx | 404 | 548 | 404 Not Found ]
+[ https://cbd.minjust.gov.kg |  | None | 200 | 2410 | Юстиция министирлиги, цбд, Минюст, сбд, цбд минюст ]
+[38;2;237;64;35m[ https://mail.avtozhol.gov.kg | PHP | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ][0m
+[38;2;237;64;35m[ https://gvfi.gov.kg | PHP | Apache | 200 | 40870 | Ветеринарная служба при Министерстве сельского хозяйства Кыргызской Республики ][0m
+[ https://asula.edu.gov.kg |  | nginx/1.21.6 | 200 | 1626 | АСУЛА - Автоматизированная система управления Лицензированием и Аккредитацией ]
+[ https://mail.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 78 |  ]
+[ https://drugtest.gvfi.gov.kg |  | nginx/1.12.2 | 200 | 852 | Система прослеживаемости ВЛС ]
+[ https://files.103.gov.kg |  | nginx/1.24.0 | 200 | 77133 | Домен припаркован в Timeweb ]
+[ https://myktyaimak.gov.kg |  | Apache/2.4.29 (Ubuntu) | 200 | 5490 | Best practices ]
+[ https://tort-gul.gov.kg |  | nginx/1.16.1 | 403 | 289 | 403 Forbidden ]
+[38;2;237;64;35m[ https://rcss.gov.kg | PHP | nginx | 200 | 80076 | КР МК Мамкурулушуна караштуу Курулушта сертификаттоонун республикалык борбору ][0m
+[ https://lk.pochva.gov.kg |  | nginx | 200 | 19403 | POCHVA.KG ]
+[38;2;237;64;35m[ https://aurora.gov.kg | WordPress,PHP | nginx/1.16.1 | 200 | 154569 | Башкы бет - Санаторий Аврора ][0m
+[ https://www.chetnura.gov.kg |  | nginx/1.16.1 | 403 | 293 | 403 Forbidden ]
+[ https://kiyal.gov.kg |  | nginx/1.16.1 | 404 | 153 | 404 Not Found ]
+[ https://en1.minjust.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 27137 | 			Войти – ЭЛЕКТРОННЫЙ НОТАРИАТ		 ]
+[38;2;237;64;35m[ https://check.edu.gov.kg | PHP | Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.33 | 200 | 1601 | Министерство образования и науки Кыргызской республики ][0m
+[ https://raioo.oldmek.edu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 8546 | Реестр аттестатов и свидетельств Кыргызской Республики ]
+[ https://diplom.edu.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 32 |  ]
+[38;2;237;64;35m[ https://basma.gov.kg | WordPress,PHP | nginx/1.16.1 | 200 | 142504 | Типография – Государственное предприятие "Типография" при Управлении делами Президента Кыргызской Республики ][0m
+[ https://bayzak.gov.kg |  | nginx/1.16.1 | 403 | 287 | 403 Forbidden ]
+[ http://stat.customs.gov.kg |  | Apache/2.4.29 (Ubuntu) | 200 | 39389 | Ситуационный центр ГТС КР ]
+[38;2;237;64;35m[ https://joldor.gov.kg | PHP | LiteSpeed | 200 | 78731 | Негизги Бет ][0m
+[ https://rsod.mineconom.gov.kg |  | Apache/2.4.29 (Ubuntu) | 200 | 104924 | Кыргыз Республикасынын Экономика жана коммерция министрлиги ]
+[ http://zalog.ordo.gov.kg |  | Microsoft-IIS/10.0 | 200 | 5377 | Единый государственный реестр прав требований на движимое имущество ]
+[ https://www.tunduk.gov.kg |  | nginx | 404 | 548 | 404 Not Found ]
+[ https://sti.gov.kg |  | None | 200 | 105429 | Государственная налоговая служба при Министерстве финансов Кыргызской Республики - ГНС ]
+[38;2;237;64;35m[ https://fiu.gov.kg | Yii框架,PHP | cloudflare | 200 | 107585 | Государственная служба финансовой разведки при Министерстве финансов Кыргызской Республики - Башкы бет ][0m
+[38;2;237;64;35m[ http://koomtalkuu.gov.kg | PHP | Apache/2.4.37 (centos) PHP/7.4.12 | 200 | 8284 | ЕДИНЫЙ ПОРТАЛ ОБЩЕСТВЕННЫХ ОБСУЖДЕНИЙ ][0m
+[ https://emed.gov.kg |  | nginx | 200 | 8243 | ЦЭЗ при МЗ КР ]
+[ https://www.med.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 366407 | 袚谢邪胁薪邪褟袚谢邪胁薪邪褟 ]
+[38;2;237;64;35m[ https://nwrmp.water.gov.kg | WordPress | nginx/1.10.3 (Ubuntu) | 200 | 156809 | AF NWRMP — Additional financing to the NATIONAL WATER RESOURCES MANAGEMENT PROJECT ][0m
+[38;2;237;64;35m[ https://sk.gov.kg | WordPress,PHP | nginx/1.16.1 | 200 | 48598 | Башкы бет - ][0m
+[38;2;237;64;35m[ https://suzak.gov.kg | WordPress,PHP | nginx | 200 | 123689 |  ][0m
+[ https://webinar.mes.gov.kg |  | nginx | 200 | 69717 | BigBlueButton ]
+[ https://api.passport.water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 502 | 584 | 502 Bad Gateway ]
+[ https://ergi.fgi.gov.kg |  | nginx/1.17.3 | 200 | 1154 | Единый реестр государственного имущества (ЕРГИ) ]
+[ https://reestr.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 47077 | Жеке маалыматтарды коргоо боюнча мамлекеттик агенттик ]
+[38;2;237;64;35m[ https://ilim.naskr.gov.kg | WordPress | Apache | 200 | 98141 | Улуттук илимдер академиясы | Улуттук илимдер академиясы – УАИ КР ][0m
+[ https://ns1.sudexpert.gov.kg |  | nginx | 200 | 24722 | HOSTING.KG ]
+[ https://mz.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 409997 | 袚谢邪胁薪邪褟袚谢邪胁薪邪褟 ]
+[38;2;237;64;35m[ https://aidarken.gov.kg | PHP | nginx/1.16.1 | 200 | 53820 | Айдаркен шаардык кеңешинин жана мэриясынын расмий веб-сайты ][0m
+[ https://med.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 388035 | 袚谢邪胁薪邪褟袚谢邪胁薪邪褟 ]
+[38;2;237;64;35m[ https://southrez.gov.kg | WordPress,PHP | nginx/1.16.1 | 200 | 124466 | ЮРП – Южная резиденция Президента КР ][0m
+[ https://eds.zakupki.gov.kg |  | nginx/1.10.3 | 404 | 1133 | Not Found ]
+[ http://www.sport.gov.kg |  | Apache/2.4.38 (Debian) | 200 | 2792790 |  ]
+[ https://kg.tunduk.gov.kg |  | Apache/2.4.18 (Ubuntu) | 200 | 29084 | «Түндүк»             — Система электронного межведомственного взаимодействия «Түндүк»             — Государственное учреждение «Түндүк» при Министерстве Цифрового развития Кыргызской Республики ]
+[ https://mail.southrez.gov.kg |  | nginx/1.16.1 | 404 | 555 | 404 Not Found ]
+[ https://ns1.it.gov.kg |  | nginx | 200 | 24722 | HOSTING.KG ]
+[ http://autodiscover.gov.kg |  | None | 200 | 39173 | Sign in to Outlook ]
+[38;2;237;64;35m[ http://invest.gov.kg | WordPress | None | 200 | 90452 | Инвестиционная карта ][0m
+[ https://gosuslugi.nas.gov.kg |  | nginx | 200 | 42835 | Государственное агенство связи при Государственном комитете информационных технологий и связи Кыргызской Республики ]
+[38;2;237;64;35m[ https://tract.water.gov.kg | WAMPSERVER,PHP | nginx/1.10.3 (Ubuntu) | 200 | 5756 | WAMPSERVER Homepage ][0m
+[ https://tma.mes.gov.kg |  | Microsoft-IIS/10.0 | 200 | 116 |  ]
+[38;2;237;64;35m[ https://export.gov.kg | PHP | nginx | 200 | 86489 | Центр "Кыргыз экспорт" ][0m
+[ https://www.myktyaimak.gov.kg |  | Apache/2.4.29 (Ubuntu) | 200 | 5490 | Best practices ]
+[ https://cholpon-ata-ao.gov.kg |  | nginx | 404 | 196 | 404 Not Found ]
+[ https://api.wua.water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 502 | 584 | 502 Bad Gateway ]
+[38;2;237;64;35m[ https://mail.antimonopolia.gov.kg | PHP | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ][0m
+[38;2;237;64;35m[ https://mail.regultek.gov.kg | PHP | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ][0m
+[ https://www.tizme.gov.kg |  | None | 403 | 77 |  ]
+[ https://auctionetp.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 1078 | Document ]
+[ https://mail.mkk.gov.kg |  | nginx | 200 | 166 |  ]
+[ https://talapker.shailoo.gov.kg |  | nginx/1.16.1 | 200 | 398943 | БШК: Талапкер ]
+[ https://wshub.103.gov.kg |  | nginx/1.24.0 | 200 | 77133 | Домен припаркован в Timeweb ]
+[ http://protocol.shailoo.gov.kg |  | None | 200 | 2479 | CEC Protocol ]
+[ https://enrol.edu.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 32 |  ]
+[ https://edu.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 97777 | Обучающая платформа Учебного центра Государственного агентства по защите персональных данных при Кабинете Министров Кыргызской Республики ]
+[ https://exch.customs.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 40956 | Портал информационного обмена ГТС КР ]
+[38;2;237;64;35m[ https://kca.gov.kg | Yii框架,PHP | cloudflare | 200 | 141118 | Кыргызский Центр Аккредитации ][0m
+[ https://katran.gov.kg |  | nginx | 403 | 3933 | Account disabled by server administrator ]
+[38;2;237;64;35m[ https://esep.gov.kg | PHP | cloudflare | 200 | 69526 | Башкы бет ][0m
+[ https://mvd.gov.kg |  | nginx | 200 | 396722 | КР ИИМ маалымат порталы - Башкы бет ]
+[ https://minfin.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 550071 | Кыргыз Республикасынын Финансы министрлиги ]
+[ https://dev-reestr.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 48920 | Реестр держателей (обладателей) массивов персональных данных ]
+[38;2;237;64;35m[ https://www.fsa.gov.kg | WordPress | nginx/1.10.3 | 200 | 278528 | СЛУЖБА РЕГУЛИРОВАНИЯ И НАДЗОРА ЗА ФИНАНСОВЫМ РЫНКОМ ПРИ МИНИСТЕРСТВЕ ЭКОНОМИКИ И КОММЕРЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ — СЛУЖБА РЕГУЛИРОВАНИЯ И НАДЗОРА ЗА ФИНАНСОВЫМ РЫНКОМ ПРИ МИНИСТЕРСТВЕ ЭКОНОМИКИ И КОММЕРЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ ][0m
+[38;2;237;64;35m[ https://www.basma.gov.kg | WordPress,PHP | nginx/1.16.1 | 200 | 32013 | Типография – Государственное предприятие "Типография" при Управлении делами Президента Кыргызской Республики ][0m
+[ https://bishkek.gov.kg |  | nginx | 200 | 88963 | Башкы бет | Мэрия ]
+[38;2;237;64;35m[ https://el2.sec.cert.gov.kg | Elastic (Database) | None | 401 | 459 |  ][0m
+[38;2;237;64;35m[ https://batken.gov.kg | PHP | nginx | 200 | 33569 | Кыргыз Республикасынын Президентинин Баткен облусундагы ыйгарым укуктуу өкүлүнүн аппараты ][0m
+[ https://quiz.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 2732 | Викторина ]
+[ https://regultek.gov.kg |  | nginx | 200 | 864293 | КР ЭМге караштуу Отун-энергетикалык комплексин жөнгө салуу боюнча департаменти ]
+[38;2;237;64;35m[ http://mnr.gov.kg | PHP | nginx/1.20.1 | 200 | 81963 | Министерство природных ресурсов, экологии и технического надзора КР ][0m
+[ https://gosstroy.gov.kg |  | None | 200 | 7439799 | Башкы — Кыргыз Республикасынын Министрлер Кабинетине караштуу Архитектура, курулуш жана турак-жай-коммуналдык чарба мамлекеттик агенттигиicon__chevron-righticon__clockicon__fileicon__log-out.svgicon__map-pinicon__phoneicon__plusicon__searchРесурс 1Ресурс 2 ]
+[38;2;237;64;35m[ https://bb.edu.gov.kg | PHP | Apache/2.4.7 (Ubuntu) | 200 | 30873 | Билим булагы ][0m
+[38;2;237;64;35m[ https://base.antimonopolia.gov.kg | PHP | nginx | 200 | 4466 | Вход в личный кабинет ][0m
+[ https://online.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 8121 | Online Chat ]
+[ https://ws3.sti.gov.kg |  | ASP.NET | 200 | 703 | IIS Windows Server ]
+[38;2;237;64;35m[ https://minculture.gov.kg | PHP | nginx | 200 | 236454 | Башкы бет - КРнын Маданият, маалымат, спорт жана жаштар саясаты министрлиги ][0m
+[38;2;237;64;35m[ https://mfa.gov.kg | Yii框架 | None | 200 | 274968 | Башкы бет - Кыргыз Республикасынын Тышкы иштер министрлиги ][0m
+[ https://so.toguz-toro.gov.kg |  | nginx/1.18.0 (Ubuntu) | 403 | 285 | 403 Forbidden ]
+[ https://ak-tatyr.gov.kg |  | nginx/1.16.1 | 403 | 289 | 403 Forbidden ]
+[ https://tandoo.zakupki.gov.kg |  | nginx/1.14.2 | 200 | 526 | Тандоо - Закупки ]
+[38;2;237;64;35m[ https://www.ak-say.gov.kg | PHP | nginx | 200 | 32020 | Ак-Сай айыл аймагынын айыл өкмөтү ][0m
+[38;2;237;64;35m[ https://terek-say.gov.kg | PHP | nginx | 200 | 34628 | Терек-Сай айыл өкмөтү ][0m
+[ https://jan-bulak.gov.kg |  | nginx/1.16.1 | 403 | 290 | 403 Forbidden ]
+[38;2;237;64;35m[ https://mail.minculture.gov.kg | PHP | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ][0m
+[38;2;237;64;35m[ https://avtozhol.gov.kg | WordPress,PHP | nginx | 200 | 203982 | AvtoJol ][0m
+[38;2;237;64;35m[ https://pbx.mlsp.gov.kg | PHP | nginx/1.14.0 (Ubuntu) | 200 | 36213 | Детские интернатные учреждения Кыргызской Республики ][0m
+[ https://mail.agro.gov.kg |  | nginx | 200 | 78 |  ]
+[ https://cert.gov.kg |  | Do_not_touch_webserver | 200 | 219396 | Киберкоопсуздукту Камсыздоо боюнча Координациялык Борбор ]
+[ https://gis.water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 200 | 6499 |  ]
+[ https://api.indicators.water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 502 | 584 | 502 Bad Gateway ]
+[ https://umut.edu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 10309 | Эл үмүтү ]
+[ https://mail.talas.gov.kg |  | nginx | 200 | 12194 | Website ascorp.kg is ready. The content is to be added ]
+[38;2;237;64;35m[ https://webmail.mnr.gov.kg | PHP | nginx | 200 | 5326 | Roundcube Webmail :: Welcome to Roundcube Webmail ][0m
+[38;2;237;64;35m[ https://cgsn.gov.kg | 若依(RuoYi)-管理系统,WordPress,PHP | nginx/1.16.1 | 200 | 43476 | ЦГСЭН г. Бишкек ][0m
+[ https://chui.gov.kg |  | nginx-reuseport/1.21.1 | 200 | 274 |  ]
+[38;2;237;64;35m[ https://www.agro.gov.kg | WordPress | nginx/1.18.0 (Ubuntu) | 200 | 1101045 | Кыргыз Республикасынын Суу ресурстары, айыл чарба жана кайра иштетүү өнөр жайы министрлиги ][0m
+[38;2;237;64;35m[ https://www.mlsp.gov.kg | WordPress,PHP | nginx | 200 | 137493 |  ][0m
+[38;2;237;64;35m[ https://ik.gov.kg | PHP | nginx | 200 | 174424 | Башкы бет - Ысык-Көл Райондук Администрациясы ][0m
+[ https://mail.ds144.gov.kg |  | nginx/1.16.1 | 404 | 153 | 404 Not Found ]
+[ http://map.religion.gov.kg |  | Apache/2.4.29 (Ubuntu) | 200 | 2598363 | RRC Portal ]
+[38;2;237;64;35m[ https://ds144.gov.kg | WordPress,PHP | nginx/1.16.1 | 200 | 197153 | Детский сад №144 – Детский сад №144 ][0m
+[ https://mail.baetov-aa.gov.kg |  | nginx | 200 | 12194 | Website ascorp.kg is ready. The content is to be added ]
+[38;2;237;64;35m[ https://mlsp.gov.kg | WordPress,PHP | nginx | 200 | 137493 |  ][0m
+[ https://coe.mes.gov.kg |  | Apache/2.4.29 (Ubuntu) | 200 | 100848 | Образовательный портал МЧС ]
+[38;2;237;64;35m[ https://www.ala-buga.gov.kg | PHP | nginx | 200 | 32462 | Ала-Буга айыл аймагынын айыл өкмөтү ][0m
+[ https://edu.myktyaimak.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 54858 | EDU DPI ]
+[ https://registry.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 48920 | Реестр держателей (обладателей) массивов персональных данных ]
+[38;2;237;64;35m[ https://www.wua.water.gov.kg | Angular IO (AngularJS) | nginx/1.10.3 (Ubuntu) | 200 | 681 | База данных АВП ][0m
+[38;2;237;64;35m[ https://www.gvfi.gov.kg | PHP | Apache | 200 | 40870 | Ветеринарная служба при Министерстве сельского хозяйства Кыргызской Республики ][0m
+[ https://gsin.gov.kg |  | nginx | 200 | 135073 | СЛУЖБА ИСПОЛНЕНИЯ НАКАЗАНИЙ ПРИ МИНИСТЕРСТВЕ ЮСТИЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ ]
+[38;2;237;64;35m[ https://ns1.bazar-korgon.gov.kg | Plesk,Plesk 面板 | nginx | 200 | 3849 | Web Server's Default Page ][0m
+[ https://toguz-toro-ao.gov.kg |  | nginx/1.16.1 | 403 | 294 | 403 Forbidden ]
+[38;2;237;64;35m[ https://mchs.gov.kg | PHP | nginx/1.16.1 | 200 | 114263 | Кыргыз Республикасынын Өзгөчө кырдаалдар министрлиги ][0m
+[ https://raioo.mektep.edu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 8546 | Реестр аттестатов и свидетельств Кыргызской Республики ]
+[ http://mail.sti.gov.kg |  | HTTP Server 1.0 | 200 | 7657 |  ]
+[ https://ns.e.gov.kg |  | Apache | 200 | 66 |  ]
+[ https://minjust.gov.kg |  | None | 200 | 2461 | Кыргыз Республикасынын Юстиция министрлиги ]
+[ https://ilim.edu.gov.kg |  | Apache/2.4.41 (Ubuntu) | 503 | 1307 | Error ]
+[ https://kyzyl-ozgorush.gov.kg |  | nginx | 404 | 196 | 404 Not Found ]
+[ https://student.edu.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 14312 | ИС по учету граждан КР за рубежом ]
+[38;2;237;64;35m[ https://www.mkk.gov.kg | WordPress | nginx | 200 | 161155 | Башкы - Кыргыз Республикасынын Министрлер Кабинетине караштуу Мамлекеттик кызмат жана жергиликтүү өз алдынча башкаруу иштери боюнча мамлекеттик агенттик ][0m
+[ https://www.ak-suu-aa.gov.kg |  | nginx | 403 | 3933 | Account disabled by server administrator ]
+[38;2;237;64;35m[ https://www.export.gov.kg | PHP | nginx | 200 | 86495 | Центр "Кыргыз экспорт" ][0m
+[ https://aitstest.gvfi.gov.kg |  | nginx/1.12.2 | 200 | 897 | Система Идентификации и Отслеживаемости Животных ]
+[38;2;237;64;35m[ https://www.ds144.gov.kg | WordPress,PHP | nginx/1.16.1 | 200 | 114056 | Детский сад №144 – Детский сад №144 ][0m
+[ https://tizme.gov.kg |  | None | 200 | 53575 | 			Избирательная система			 ]
+[ https://online.minjust.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 272 |  ]
+[38;2;237;64;35m[ https://karkyra.gov.kg | PHP | nginx | 200 | 31068 | Каркыра айыл аймагынын айыл өкмөтү ][0m
+[ https://en.minjust.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 135446 | E-notariat ]
+[ https://pm.mlsp.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 2323 | Общественный мониторинг ]
+[38;2;237;64;35m[ https://mail.naskr.gov.kg | WordPress | Apache | 200 | 98141 | Улуттук илимдер академиясы | Улуттук илимдер академиясы – УАИ КР ][0m
+[38;2;237;64;35m[ https://balbay.gov.kg | PHP | nginx | 200 | 51972 | Балбай айыл аймагынын айыл өкмөтү ][0m
+[ https://agromap.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 1152 | AgroMap ]
+[ https://mail.basma.gov.kg |  | nginx/1.16.1 | 404 | 555 | 404 Not Found ]
+[ https://ak-suu-aa.gov.kg |  | nginx | 403 | 3933 | Account disabled by server administrator ]
+[38;2;237;64;35m[ https://oaouchkun.gov.kg | PHP | nginx | 200 | 39329 | "Учкун" ААКун расмий веб-сайты ][0m
+[ https://ns01.edu.gov.kg |  | nginx | 200 | 12308 | Zimbra Web Client Sign In ]
+[ https://dev.online.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 402 | Главная ]
+[ https://ns02.edu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 8546 | Реестр аттестатов и свидетельств Кыргызской Республики ]
+[ https://www.ak-tatyr.gov.kg |  | nginx/1.16.1 | 403 | 293 | 403 Forbidden ]
+[38;2;237;64;35m[ https://orto.gov.kg | WordPress,PHP | LiteSpeed | 200 | 99012 | Айыл аймагы "Орто" ][0m
+[ https://geonode.water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 200 | 16443 | Welcome! - GeoNode ]
+[38;2;237;64;35m[ https://www.digital.gov.kg | WordPress | None | 200 | 69975 | Главная - Министерство цифрового развития Кыргызской Республики ][0m
+[ https://fgi.gov.kg |  | nginx/1.17.0 | 200 | 2035 | Государственное агентство по управлению государственным имуществом при Кабинете Министров Кыргызской Республики ]
+[ https://map.tourism.gov.kg |  | openresty | 200 | 2990 | Virtual Tour ]
+[ https://tstk.customs.gov.kg |  | nginx/1.18.0 (Ubuntu) | 404 | 162 | 404 Not Found ]
+[ https://mail.cholpon-ata-ao.gov.kg |  | nginx | 200 | 12194 | Website ascorp.kg is ready. The content is to be added ]
+[38;2;237;64;35m[ https://atay.gov.kg | PHP | nginx | 200 | 41202 | Атай айыл аймагынын Айыл Өкмөтү ][0m
+[ https://probation.gov.kg |  | Apache/2.4.25 (Debian) | 200 | 41147 | Кыргыз Республикасынын Пробация департаменти ]
+[38;2;237;64;35m[ https://el1.sec.cert.gov.kg | Elastic (Database) | None | 401 | 459 |  ][0m
+[ https://toguz-toro.gov.kg |  | nginx/1.18.0 (Ubuntu) | 403 | 282 | 403 Forbidden ]
+[ https://mail.it.gov.kg |  | None | 200 | 2434 | КЫРГЫЗ РЕСПУБЛИКАСЫНЫН БАШКЫ ПРОКУРАТУРАСЫ ]
+[38;2;237;64;35m[ https://admin.indicators.water.gov.kg | Angular IO (AngularJS) | nginx/1.10.3 (Ubuntu) | 200 | 668 | AdminWri ][0m
+[ http://mail.orto.gov.kg |  | LiteSpeed | 403 | 787 | 403 Forbidden ]
+[ https://kg.gvfi.gov.kg |  | Apache | 500 | 527 | 500 Internal Server Error ]
+[ https://rb.agro.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 24072 | Страница Заявки - FishingLicence ]
+[38;2;237;64;35m[ https://ns2.mlsp.gov.kg | Plesk,Plesk 面板 | nginx | 200 | 3849 | Web Server's Default Page ][0m
+[ https://ns1.mvd.gov.kg |  | nginx | 200 | 396722 | КР ИИМ маалымат порталы - Башкы бет ]
+[ https://probadm.probation.gov.kg |  | Apache/2.4.25 (Debian) | 200 | 1 |  ]
+[38;2;237;64;35m[ https://mail.fgi.gov.kg | CommuniGate | CommuniGatePro/6.0.11 | 200 | 8014 | CommuniGate Pro fgi.gov.kg Entrance ][0m
+[38;2;237;64;35m[ https://open.edu.gov.kg | PHP | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 200 | 169883 | ИСУО ][0m
+[ https://mail.tunduk.gov.kg |  | nginx | 200 | 78 |  ]
+[38;2;237;64;35m[ https://mtd.gov.kg | WordPress,PHP | LiteSpeed | 200 | 64299 | Министерство транспорта и коммуникаций Кыргызской Республики ][0m
+[ https://e.gov.kg |  | nginx | 200 | 55454 | Государственный портал электронных услуг ]
+[ https://toktogulgorkenesh.gov.kg |  | nginx | 200 | 1175 | ГОРОДСКОЙ КЕНЕШ Г. ТОКТОГУЛ ]
+[ https://mail.chuy-arhitektura.gov.kg |  | nginx | 200 | 12194 | Website ascorp.kg is ready. The content is to be added ]
+[38;2;237;64;35m[ https://karasaev.gov.kg | PHP | nginx | 200 | 48841 | Карасаев айыл аймагынын айыл өкмөтү ][0m
+[38;2;237;64;35m[ https://wuse.water.gov.kg | Yii PHP Framework (Default Favicon),Yii框架 | nginx/1.10.3 (Ubuntu) | 200 | 8787 | ИСВ Водопользование ][0m
+[ https://mail.toluk-ao.gov.kg |  | nginx | 200 | 12194 | Website ascorp.kg is ready. The content is to be added ]
+[ http://gp.it.gov.kg |  | nginx/1.22.1 | 403 | 199 | 403 Forbidden ]
+[ https://1227.mlsp.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 17084 | Создание заявления на гум. помощь ]
+[ https://mektep.edu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 9732 | Информационная система МОН КР ]
+[38;2;237;64;35m[ https://public.edu.gov.kg | PHP | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 200 | 169883 | ИСУО ][0m
+[38;2;237;64;35m[ https://indicators.water.gov.kg | Angular IO (AngularJS) | nginx/1.10.3 (Ubuntu) | 200 | 848 | Пользовательский интерфейс ][0m
+[ https://plomba.customs.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 1047 | Электронные навигационные пломбы ]
+[ http://gns.sti.gov.kg |  | Microsoft-IIS/6.0 | 200 | 1013 | Web Server STI - WS2 ]
+[ https://test.tunduk.gov.kg |  | Apache/2.4.18 (Ubuntu) | 200 | 29114 | «Түндүк»             — Система электронного межведомственного взаимодействия «Түндүк»             — Государственное учреждение «Түндүк» при Министерстве Цифрового развития Кыргызской Республики ]
+[38;2;237;64;35m[ https://child.mlsp.gov.kg | PHP | nginx/1.14.0 (Ubuntu) | 200 | 36215 | Детские интернатные учреждения Кыргызской Республики ][0m
+[ https://zakupki.gov.kg |  | nginx/1.10.3 | 200 | 85828 | Портал ЭГЗ ]
+[ https://naryn-raiadmin.gov.kg |  | nginx | 403 | 199 | 403 Forbidden ]
+[ https://www.portal.water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 200 | 612 | Welcome to nginx! ]
+[38;2;237;64;35m[ https://reestr.kca.gov.kg | Yii框架 | cloudflare | 200 | 505988 | Организации ][0m
+[ https://office.agro.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 612 | Welcome to nginx! ]
+[38;2;237;64;35m[ https://mail.kyrgyzkomur.gov.kg | PHP | nginx/1.16.1 | 200 | 5877 | Roundcube Webmail :: Welcome to Roundcube Webmail ][0m
+[ https://cloud.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 402 | Главная ]
+[ https://drug.gvfi.gov.kg |  | nginx/1.16.1 | 200 | 852 | Система прослеживаемости ВЛС ]
+[ https://nism.gov.kg |  | nginx | 200 | 240684 | Центр по стандартизации и метрологии при Министерстве экономики и коммерции КР ]
+[ https://zb.gov.kg |  | nginx | 200 | 19665 | BALANCE.KG ]
+[ https://kg-eu.mlsp.gov.kg |  | nginx | 200 | 41632 | Административно-территориальное устройство Кыргызской Республики - Социальная защита и управление государственными финансами. Проект Европейского Союза ]
+[ https://kb1.sec.cert.gov.kg |  | Do_not_touch_webserver | 200 | 91084 | Elastic ]
+[38;2;237;64;35m[ https://kyrgyzkomur.gov.kg | WordPress,PHP | nginx/1.10.2 | 200 | 100839 | Кыргыз Комур ][0m
+[ https://old.mfa.gov.kg |  | None | 502 | 559 | 502 Bad Gateway ]
+[ https://ss-customs.tunduk.gov.kg |  | None | 200 | 431 |  ]
+[38;2;237;64;35m[ https://mail.mchs.gov.kg | PHP | nginx/1.16.1 | 200 | 5877 | Roundcube Webmail :: Welcome to Roundcube Webmail ][0m
+[38;2;237;64;35m[ https://24.103.gov.kg | 401 登陆认证 | nginx/1.14.2 | 401 | 597 | 401 Authorization Required ][0m
+[38;2;237;64;35m[ https://www.apnip.water.gov.kg | WordPress | nginx/1.10.3 (Ubuntu) | 200 | 101163 | APNIP — ПРОЕКТ "УЛУЧШЕНИЕ СЕЛЬСКОХОЗЯЙСТВЕННОЙ ПРОИЗВОДИТЕЛЬНОСТИ И ПИТАНИЯ ][0m
+[38;2;237;64;35m[ https://www.joldor.gov.kg | PHP | LiteSpeed | 200 | 78731 | Негизги Бет ][0m
+[38;2;237;64;35m[ https://grja.gov.kg | WordPress,PHP | nginx/1.16.1 | 200 | 129372 | Государственная резиденция «Джалал-Абад» ][0m
+[ https://sary-bulun.gov.kg |  | nginx/1.18.0 (Ubuntu) | 403 | 282 | 403 Forbidden ]
+[38;2;237;64;35m[ https://emis.edu.gov.kg | PHP | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 200 | 14923 | ИСУО Кыргызской Республики ][0m
+[38;2;237;64;35m[ https://e.kca.gov.kg | Yii框架,PHP | cloudflare | 200 | 2825 | Авторизоваться ][0m
+[ https://dev-edu.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 154820 | Обучающая платформа Учебного центра Государственного агентства по защите персональных данных при Кабинете Министров Кыргызской Республики ]
+[38;2;237;64;35m[ https://gbd.mlsp.gov.kg | React | nginx/1.14.0 (Ubuntu) | 200 | 1867 | ПСУ ][0m
+[38;2;237;64;35m[ https://apnip.water.gov.kg | WordPress | nginx/1.10.3 (Ubuntu) | 200 | 101159 | APNIP — ПРОЕКТ "УЛУЧШЕНИЕ СЕЛЬСКОХОЗЯЙСТВЕННОЙ ПРОИЗВОДИТЕЛЬНОСТИ И ПИТАНИЯ ][0m
+[ https://pochva.gov.kg |  | nginx | 200 | 13805 | PochvaA.kg ]
+[38;2;237;64;35m[ https://bazar-korgon.gov.kg | WordPress,PHP | nginx | 200 | 139026 | Бакшы бет - Базар-Коргон райондук мамлекеттик администрациясы ][0m
+[ https://pi.customs.gov.kg |  | None | 200 | 6736 | Sanarip Tamga ]
+[ https://register.minjust.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 78753 | ЭЛЕКТРОННАЯ РЕГИСТРАЦИЯ ЮРИДИЧЕСКИХ ЛИЦ ]
+[ https://mail.batken.gov.kg |  | nginx | 200 | 12194 | Website ascorp.kg is ready. The content is to be added ]
+[ https://auction.nas.gov.kg |  | None | 200 | 8862 | Онлайн аукцион радиочастотного спектра ]
+[ https://e-talapker.shailoo.gov.kg |  | nginx/1.16.1 | 200 | 10177 | ИСЭК ]
+[38;2;237;64;35m[ https://www.cgsn.gov.kg | 若依(RuoYi)-管理系统,WordPress,PHP | nginx/1.16.1 | 200 | 43476 | ЦГСЭН г. Бишкек ][0m
+[ https://portal.water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 200 | 30002 | Главная ]
+[38;2;237;64;35m[ https://talas.gov.kg | PHP | nginx | 200 | 35959 | Кыргыз Республикасынын Президентинин Талас облусундагы ыйгарым укуктуу өкүлүнүн аппараты ][0m
+[ https://mail.toguz-toro.gov.kg |  | nginx/1.18.0 (Ubuntu) | 403 | 287 | 403 Forbidden ]
+[38;2;237;64;35m[ https://mail.export.gov.kg | WordPress,PHP | nginx | 200 | 52474 | SCARGOS — Delivery exchange ][0m
+[38;2;237;64;35m[ https://jalal-abad.gov.kg | PHP | nginx/1.16.1 | 200 | 55899 | Жалал-Абад шаарынын мэриясынын расмий сайты ][0m
+[38;2;237;64;35m[ https://greenenergy.gov.kg | PHP | nginx | 200 | 90076 | Кыргыз Республикасынын Министрлер Кабинетине караштуу Жашыл энергетика фонду ][0m
+[ https://dev-quiz.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 1933 | Викторина ]
+[ https://ns1.fgi.gov.kg |  | nginx/1.17.0 | 200 | 1131 | Фонд по управлению государственным имуществом при Правительстве Кыргызской Республики ]
+[ https://ns2.it.gov.kg |  | nginx | 200 | 24722 | HOSTING.KG ]
+[ https://mail.jalal-abad.gov.kg |  | nginx/1.16.1 | 404 | 153 | 404 Not Found ]
+[ https://elicense.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 51608 | Главная | Разрешительные документы Кыргызской Республики ]
+[ https://www.elicense.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 51608 | Главная | Разрешительные документы Кыргызской Республики ]
+[ https://mail.sk.gov.kg |  | nginx/1.16.1 | 404 | 555 | 404 Not Found ]
+[ https://www.mvd.gov.kg |  | nginx | 200 | 396722 | КР ИИМ маалымат порталы - Башкы бет ]
+[ https://gknb.gov.kg |  | cloudflare | 403 | 15594 | Just a moment... ]
+[ https://cert.okuu.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 402 | Главная ]
+[ https://2020.edu.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 7281 | Абитуриент Онлайн ]
+[ https://tandoo.gov.kg |  | None | 200 | 33756 | Банк вакансий - Банк Вакансий ]
+[ https://cert.test.dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 402 | Главная ]
+[ https://dpa.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 46643 | Жеке маалыматтарды коргоо боюнча мамлекеттик агенттик ]
+[ https://kk.mfa.gov.kg |  | nginx/1.14.0 (Ubuntu) | 200 | 1060 | Кыргыз Республикасынын тышкы иштер министирлиги ]
+[38;2;237;64;35m[ https://www.bozuchuk.gov.kg | PHP | nginx | 200 | 30819 | Главная - Боз-учук айылы ][0m
+[38;2;237;64;35m[ https://ns2.bazar-korgon.gov.kg | Plesk,Plesk 面板 | nginx | 200 | 3849 | Web Server's Default Page ][0m
+[38;2;237;64;35m[ https://ala-buga.gov.kg | PHP | nginx | 200 | 32462 | Ала-Буга айыл аймагынын айыл өкмөтү ][0m
+[38;2;237;64;35m[ https://suu-bashy.gov.kg | PHP | nginx | 200 | 184578 | Суу-Башы Айыл Өкмөтүнүн жана Айылдык Кеңешинин расмий сайты ][0m
+[38;2;237;64;35m[ http://ns1.koomtalkuu.gov.kg | PHP | Apache/2.2.16 (Debian) | 200 | 145736 | Кыргыз Республикасынын Юстиция министрлиги ][0m
+[ https://mail.aidarken.gov.kg |  | nginx/1.16.1 | 404 | 153 | 404 Not Found ]
+[ https://aits.gvfi.gov.kg |  | nginx/1.16.1 | 200 | 897 | Система Идентификации и Отслеживаемости Животных ]
+[ https://mail.mvd.gov.kg |  | nginx | 200 | 396722 | КР ИИМ маалымат порталы - Башкы бет ]
+[38;2;237;64;35m[ https://naskr.gov.kg | WordPress | Apache | 200 | 98065 | Улуттук илимдер академиясы | Улуттук илимдер академиясы – УАИ КР ][0m
+[ https://osh.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 35190 | Башкы бет ]
+[ https://economy.gov.kg |  | cloudflare | 200 | 828 | Research Institute ]
+[ https://cabinet.mektep.edu.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 8546 | Реестр аттестатов и свидетельств Кыргызской Республики ]
+[38;2;237;64;35m[ https://kdtp.gov.kg | WordPress,PHP | nginx | 200 | 185762 | Кыргызжолтрансдолбоор - Кыргыз Республикасынын Транспорт жана Жол Министрлигине Караштуу "Кыргызжолтрансдолбоор" Долбоорлоо-Изилдөө Институту Мамлекеттик ишканасы ][0m
+[ http://standarts.nism.gov.kg |  | Apache/2.4.18 (Ubuntu) | 200 | 31844 | Центр по Стандартизации и Метрологии при Министерстве экономики КР ]
+[ https://mail.karkyra.gov.kg |  | nginx | 200 | 12194 | Website ascorp.kg is ready. The content is to be added ]
+[38;2;237;64;35m[ https://tamakash.edu.gov.kg | WordPress | Apache/2.4.29 (Ubuntu) | 200 | 65363 |  ][0m
+[38;2;237;64;35m[ https://jalal-abadobl.gov.kg | WordPress,PHP | nginx | 200 | 188372 | - Башкы бет ][0m
+[ https://www.water.gov.kg |  | nginx/1.10.3 (Ubuntu) | 200 | 108536 | Главная ]
+[ http://pilotcbd.minjust.gov.kg |  | nginx/1.24.0 | 500 | 579 | 500 Internal Server Error ]
+[ https://zalog.minjust.gov.kg |  | cloudflare | 200 | 5377 | Единый государственный реестр прав требований на движимое имущество ]
+[38;2;237;64;35m[ https://ton.gov.kg | PHP | nginx | 200 | 41773 | Тон районунун мамлекеттик администрациясы ][0m
+[38;2;237;64;35m[ https://enp.customs.gov.kg | Shiro | nginx/1.18.0 (Ubuntu) | 200 | 3583 |  ][0m
+[38;2;237;64;35m[ http://nlkr.gov.kg | WordPress,PHP | Apache/2.4.46 (Win64) PHP/7.4.9 | 200 | 64530 | Национальная Библиотека Кыргызской Республики имени Алыкула Осмонова ][0m
+[38;2;237;64;35m[ https://antimonopolia.gov.kg | WordPress,PHP | nginx | 200 | 306453 | Башкы бет - Кыргыз Республикасынын Экономика жана Коммерция министрлигине караштуу Монополияга каршы жөнгө салуу кызматыДЛЯ СЛАБОВИДЯЩИХУВЕЛИЧИТЬ ШРИФТУМЕНЬШИТЬ ШРИФТОТТЕНКИ СЕРОГОВЫСОКИЙ КОНТРАСТНЕГАТИВСВЕТЛЫЙ ФОНПОДЧЕРКИВАНИЕДРУГОЙ ШРИФТReset ][0m
+[ http://cec.shailoo.gov.kg |  | Apache | 200 | 746 | Извинение... ]
+[38;2;237;64;35m[ https://baetov-aa.gov.kg | PHP | nginx | 200 | 478019 | Баетов  айыл аймагынын айыл өкмөтү ][0m
+[38;2;237;64;35m[ https://toktogul.gov.kg | PHP | nginx | 200 | 52979 | Токтогул шаарынын мэриясы ][0m
+[38;2;237;64;35m[ https://lebedinovka-ao.gov.kg | PHP | nginx | 200 | 66 |  ][0m
+[ http://digital.agro.gov.kg |  | nginx/1.18.0 (Ubuntu) | 200 | 8187 | Digital Agriculture ]
+[38;2;237;64;35m[ https://mkk.gov.kg | WordPress | nginx | 200 | 161155 | Башкы - Кыргыз Республикасынын Министрлер Кабинетине караштуу Мамлекеттик кызмат жана жергиликтүү өз алдынча башкаруу иштери боюнча мамлекеттик агенттик ][0m
+[ http://etp.gov.kg |  | nginx/1.18.0 (Ubuntu) | 502 | 568 | 502 Bad Gateway ]
+[38;2;237;64;35m[ https://enp.customs.gov.kg/./?force_client= | Shiro | nginx/1.18.0 (Ubuntu) | 200 | 3593 |  ][0m
+[38;2;237;64;35m[ https://toluk-ao.gov.kg | PHP | nginx | 200 | 327897 | Толук айыл аймагынын Толук айыл өкмөтү ][0m
+[ https://minenergo.gov.kg |  | nginx | 200 | 2357215 | Кыргыз Республикасынын  Энергетика министрлигинин расмий сайты ]
+[38;2;237;64;35m[ https://www.avtozhol.gov.kg | WordPress,PHP | nginx | 200 | 203982 | AvtoJol ][0m
 [38;2;244;211;49m
 重点资产：[0m
-[ https://root.gov.kz | [38;2;237;64;35mWordPress[0m | nginx | 200 | 54531 | КУЦ РК — Сайт Корневого Удостоверяющего центра Республики Казахстан ]
-[ https://check.irm.invest.gov.kz | [38;2;237;64;35mHP iLO[0m | None | 200 | 10746 |  ]
-[ https://almatyvet.gov.kz | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.20.2 | 200 | 38164 | КГП на ПХВ "Городская ветеринарная служба" – КГП на ПХВ "Городская ветеринарная служба" ]
-[ https://www.baiterek.gov.kz | [38;2;237;64;35mPHP[0m | nginx | 200 | 159272 | «Бәйтерек» ұлттық басқарушы холдингі ]
-[ https://dts.gov.kz | [38;2;237;64;35mWordPress[0m | nginx | 200 | 86290 | dts.gov.kz ]
-[ https://m.gov.kz | [38;2;237;64;35mMicrosoft OWA[0m | ASP.NET | 200 | 1854 |  ]
-[ https://autodiscover.m.gov.kz | [38;2;237;64;35mMicrosoft OWA[0m | ASP.NET | 200 | 1893 |  ]
-[ https://zhanlib.gov.kz | [38;2;237;64;35mYii框架[0m | nginx | 200 | 93075 | С. Сейфуллин атындағы Жаңаарқа ауданының орталықтандырылған кітапхана жүйесі ]
-[ https://www.rkastana.gov.kz | [38;2;237;64;35mPHP[0m | nginx | 200 | 166586 | Астана қаласы бойынша Тексеру комиссиясы ]
-[ https://mail.m.gov.kz | [38;2;237;64;35mMicrosoft OWA[0m | ASP.NET | 200 | 1869 |  ]
-[ https://irm.invest.gov.kz | [38;2;237;64;35mHP iLO[0m | None | 200 | 10746 |  ]
-[ https://mail.bala.gov.kz | [38;2;237;64;35mPlesk[0m | nginx | 200 | 1438 |  ]
-[ https://crl.pki.gov.kz | [38;2;237;64;35m列目录[0m | nginx | 200 | 1098 | Index of / ]
-[ https://ns2.esaran.gov.kz | [38;2;237;64;35mPlesk,Plesk 面板[0m | nginx | 200 | 3849 | Web Server's Default Page ]
-[ https://baiterek.gov.kz | [38;2;237;64;35mPHP[0m | nginx | 200 | 159272 | «Бәйтерек» ұлттық басқарушы холдингі ]
-[ https://rcgi.geology.gov.kz | [38;2;237;64;35mPHP[0m | nginx/1.20.2 | 200 | 138307 | Главная         - Conco ]
-[ https://forensic.gov.kz | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.20.2 | 200 | 126140 | Басты бет - Сот сараптамалары орталығы ]
-[ https://mail.mod.gov.kz | [38;2;237;64;35mOutlook Web Application,Outlook[0m | Microsoft-IIS/10.0 | 200 | 27976 | Outlook ]
-[ https://booking.bolashak.gov.kz | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.20.2 | 200 | 22000 | BookingValidation ]
-[ https://almaty.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 238114 | Алматы қаласы бойынша Мемлекеттік кірістер Департаменті | ]
-[ https://kzl.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 261496 | Қызылорда облысы бойынша Мемлекеттік кірістер Департаменті | ]
-[ https://garden.altynsarin.kostanay.gov.kz | [38;2;237;64;35mYii框架[0m | nginx | 200 | 86937 |  ]
-[ https://cts.gov.kz | [38;2;237;64;35mPHP[0m | nginx/1.20.1 | 200 | 78706 | «City Transportation Systems» ЖШС ресми сайты - Басты бет ]
-[ https://copy.inva.gov.kz | [38;2;237;64;35mPHP[0m | Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/7.1.8 mod_perl/2.0.9dev Perl/v5.16.3 | 200 | 2244903 | Главная  | inva.gov.kz Кресло-арбалармен қозғалатын адамдар үшін 16141 объекті қолжетімдіЕсту қабілетінен айрылған адамдар үшін 17326 объекті қолжетімдіКөру қабілеті бұзылған адамдар үшін 16340 объекті қолжетімдіТірек-қимыл аппараты бұзылған адамдар үшін 16307 объекті қолжетімдіКресло-арбалармен қозғалатын адамдар үшін 26403 объекті ішінара қолжетімдіЕсту қабілетінен айрылған адамдар үшін 21220 объекті ішінара қолжетімдіКөру қабілеті бұзылған адамдар үшін 25660 объекті ішінара қолжетімдіТірек-қимыл аппараты бұзылған адамдар үшін 25931 объекті ішінара қолжетімдіКресло-арбалармен қозғалатын адамдар үшін 1 объекті қолжетімді емесЕсту қабілетінен айрылған адамдар үшін 2525 объекті қолжетімді емесКөру қабілеті бұзылған адамдар үшін 13 объекті қолжетімді емесТірек-қимыл аппараты бұзылған адамдар үшін 3 объекті қолжетімді емес ]
-[ https://ns1.esaran.gov.kz | [38;2;237;64;35mPlesk,Plesk 面板[0m | nginx | 200 | 3849 | Web Server's Default Page ]
-[ https://mail2.bolashak.gov.kz | [38;2;237;64;35mOutlook Web Application,Outlook[0m | Microsoft-IIS/10.0 | 200 | 27988 | Outlook ]
-[ https://www.pki.gov.kz | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 58002 | Национальный удостоверяющий центр Республики Казахстан ]
-[ https://mail.cts.gov.kz | [38;2;237;64;35mOutlook Web Application,Outlook[0m | Microsoft-IIS/10.0 | 200 | 27976 | Outlook ]
-[ https://invest07.gov.kz | [38;2;237;64;35mJoomla[0m | nginx | 200 | 64700 | Главная - Инвестиционный портал ЗКО ]
-[ https://pki.gov.kz | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 58002 | Национальный удостоверяющий центр Республики Казахстан ]
-[ https://school.fedorovka.kostanay.gov.kz | [38;2;237;64;35mYii框架,PHP[0m | Microsoft-IIS/8.5 | 200 | 48267 | Балаларды Фёдоров ауданы жалпы білім беретін мекемелеріне қабылдау және ауыстыру ]
-[ https://nws1.enbek.gov.kz | [38;2;237;64;35mPHP[0m | Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips SVN/1.7.14 PHP/7.3.33 mod_jk/1.2.48 | 200 | 28127 | Вход | Паспорт.enbek.kz ]
-[ https://barcef2016.bolashak.gov.kz | [38;2;237;64;35mPHP[0m | nginx/1.20.2 | 200 | 64694 | Главная         - Conco ]
-[ https://old.bolashak.gov.kz | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.20.2 | 200 | 32303 | АО "Центр международных программ" | WP ]
-[ https://pda.enbek.gov.kz | [38;2;237;64;35mPHP[0m | nginx/1.25.4 | 200 | 160098 | Басты бет - Қазтұтынуодағы Қарағанды университет ]
-[ https://pda.goszakup.gov.kz | [38;2;237;64;35mPHP[0m | nginx | 400 | 68 |  ]
-[ http://akb.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 235100 | Ақтөбе облысы бойынша Мемлекеттік кірістер Департаменті | ]
-[ https://nordic.invest.gov.kz | [38;2;237;64;35mPlesk,Plesk 面板[0m | nginx | 200 | 19058 | Домен припаркован в Казахстане - PS.kz ]
-[ https://rkastana.gov.kz | [38;2;237;64;35mPHP[0m | nginx | 200 | 166586 | Астана қаласы бойынша Тексеру комиссиясы ]
-[ https://e-catalog.gov.kz | [38;2;237;64;35mShiro[0m | nginx/1.18.0 | 200 | 4203 | ЭКТ | Электронный каталог товаров ]
-[ http://nursultan.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 263869 | Қазақстан Республикасы Қаржы министрлігінің Мемлекеттік кірістер комитеті | ]
-[ https://kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 262939 | Қазақстан Республикасы Қаржы министрлігінің Мемлекеттік кірістер комитеті | ]
-[ https://biblioteka-aktogai.gov.kz | [38;2;237;64;35mPHP[0m | nginx/1.20.2 | 200 | 76739 | — "Ақтоғай ауданының орталықтандырылған кітапхана жүйесі" мемлекеттік мекемесі ]
-[ http://shymkent.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 236420 | Шымкент қаласы бойынша Мемлекеттік кірістер департаменті | ]
-[ https://new-admin.export.gov.kz | [38;2;237;64;35mAngular IO (AngularJS)[0m | nginx/1.14.0 (Ubuntu) | 200 | 832 | ExportCms ]
-[ https://mail.cbs-saran.gov.kz | [38;2;237;64;35mPlesk[0m | nginx | 200 | 1438 |  ]
-[ https://school.amangeldy.kostanay.gov.kz | [38;2;237;64;35mYii框架,PHP[0m | Microsoft-IIS/8.5 | 200 | 48260 | Балаларды Амангелді ауданы жалпы білім беретін мекемелеріне қабылдау және ауыстыру ]
-[ http://alm.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 276141 | Алматы облысы бойынша Мемлекеттік кірістер Департаменті | ]
-[ http://akm.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 214592 | Ақмола облысы бойынша Мемлекеттік кірістер Департаменті | ]
-[ http://kst.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 150776 | Қостанай облысы бойынша Мемлекеттік кірістер Департаменті | ]
-[ https://esep-mangistau.gov.kz | [38;2;237;64;35mPHP[0m | nginx/1.20.2 | 200 | 74 |  ]
-[ https://astana.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 247781 | Астана қаласы бойынша Мемлекеттік Кірістер Департаменті | ]
-[ http://garden.oouk.vko.gov.kz | [38;2;237;64;35mYii框架[0m | nginx | 200 | 86937 |  ]
-[ https://www.cbs-saran.gov.kz | [38;2;237;64;35mWordPress[0m | nginx | 200 | 169975 | Бас бет - «САРАН ҚАЛАСЫНЫҢ ОРТАЛЫҚТАНДЫРЫЛҒАН КІТАПХАНА ЖҮЙЕСІ» КММInstagramYouTubeFacebookVKSearchExpandExpandToggle MenuExpandExpandToggle Menu CloseSearch ]
-[ http://esaran.gov.kz | [38;2;237;64;35mYii框架,PHP[0m | nginx | 200 | 28115 | Вход в административный модуль ]
-[ http://fg.rfs.gov.kz | [38;2;237;64;35mPlesk,Plesk 面板[0m | nginx | 200 | 4033 | Web Server's Default Page ]
-[ http://atr.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 216105 | Атырау облысы бойынша Мемлекеттік кірістер Департаменті | ]
-[ https://cbs-saran.gov.kz | [38;2;237;64;35mWordPress[0m | nginx | 200 | 169975 | Бас бет - «САРАН ҚАЛАСЫНЫҢ ОРТАЛЫҚТАНДЫРЫЛҒАН КІТАПХАНА ЖҮЙЕСІ» КММInstagramYouTubeFacebookVKSearchExpandExpandToggle MenuExpandExpandToggle Menu CloseSearch ]
-[ http://vko.kgd.gov.kz | [38;2;237;64;35mDrupal[0m | nginx | 200 | 213811 | Шығыс-Қазақстан облысы бойынша Мемлекеттік кірістер Департаменті | ]
-[ http://garden.fedorovka.kostanay.gov.kz | [38;2;237;64;35mYii框架[0m | nginx | 200 | 86937 |  ]
-[ http://www.biblioteka-aktogai.gov.kz | [38;2;237;64;35mPHP[0m | nginx/1.20.2 | 200 | 76739 | — "Ақтоғай ауданының орталықтандырылған кітапхана жүйесі" мемлекеттік мекемесі ]
-[ http://garden.arkalyk.kostanay.gov.kz | [38;2;237;64;35mYii框架[0m | nginx | 200 | 86937 |  ]
-[ http://test.bko.gov.kz | [38;2;237;64;35mPlesk,Plesk 面板[0m | nginx | 200 | 6687 | Хостинг аккаунт приостановлен ]
-[ http://www.biblioteka-aktogai.gov.kz/kk/wap/1 | [38;2;237;64;35mPHP[0m | nginx/1.20.2 | 200 | 76607 | — Централизованная библиотечная система            Актогайского района ]
-[ http://biblioteka-aktogai.gov.kz/kk/wap/1 | [38;2;237;64;35mPHP[0m | nginx/1.20.2 | 200 | 76607 | — Централизованная библиотечная система            Актогайского района ]
+[ http://map.avtozhol.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 404 | 8739 | 404 :: Powered by Subrion 4.2 ]
+[ https://kanysh-kya.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx-reuseport/1.21.1 | 200 | 21810 | Каныш-Кыя айыл өкмөтү ]
+[ https://digital.gov.kg | [38;2;237;64;35mWordPress[0m | None | 200 | 69975 | Главная - Министерство цифрового развития Кыргызской Республики ]
+[ https://smart.customs.gov.kg | [38;2;237;64;35mTomcat默认页面,Apache Tomcat[0m | nginx/1.18.0 (Ubuntu) | 200 | 11210 | Apache Tomcat/9.0.80 ]
+[ https://backend.mfa.gov.kg | [38;2;237;64;35mYii框架[0m | None | 200 | 3317 | Авторизация ]
+[ https://mail.sudexpert.gov.kg | [38;2;237;64;35mCommuniGate[0m | CommuniGatePro/6.0.11 | 500 | 695 | Unknown Domain ]
+[ http://admin.koomtalkuu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.4.37 (centos) PHP/7.4.12 | 404 | 898 | An Error Occurred: Not Found ]
+[ https://naryn.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 49683 | Кыргыз Республикасынын Президентинин Нарын облусундагы ыйгарым укуктуу өкүлүнүн аппаратынын расмий веб-сайты ]
+[ https://24.edu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 401 | 64 |  ]
+[ https://data.edu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 200 | 2610 | OpenEMIS Dashboard ]
+[ https://atp.gov.kg | [38;2;237;64;35mReact[0m | nginx/1.18.0 (Ubuntu) | 200 | 700 | Автотранспортное Предприятие УД КР ]
+[ https://agro.gov.kg | [38;2;237;64;35mWordPress[0m | nginx/1.18.0 (Ubuntu) | 200 | 1101045 | Кыргыз Республикасынын Суу ресурстары, айыл чарба жана кайра иштетүү өнөр жайы министрлиги ]
+[ https://bozuchuk.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 30663 | Главная - Боз-учук айылы ]
+[ https://www.mfa.gov.kg | [38;2;237;64;35mYii框架[0m | None | 200 | 275266 | Башкы бет - Кыргыз Республикасынын Тышкы иштер министрлиги ]
+[ https://www.mtd.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | LiteSpeed | 200 | 64299 | Министерство транспорта и коммуникаций Кыргызской Республики ]
+[ https://mail.oaouchkun.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ]
+[ https://mail.mes.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ]
+[ https://bot.blood.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 647 |  ]
+[ https://mamtil.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.20.1 | 200 | 64299 | Кыргыз Республикасынын Президентине караштуу <br/> Мамлекеттик тил жана тил саясаты боюнча улуттук комиссия ]
+[ https://sudexpert.gov.kg | [38;2;237;64;35mWordPress[0m | None | 200 | 202668 | Судебно-экспертная служба — при Министерстве юстиции Кыргызской Республики ]
+[ https://ns1.mlsp.gov.kg | [38;2;237;64;35mPlesk,Plesk 面板[0m | nginx | 200 | 3849 | Web Server's Default Page ]
+[ https://balykchy.gov.kg | [38;2;237;64;35mWordPress[0m | openresty | 200 | 294604 | Инвестиционный портал город Балыкчы ]
+[ https://fsa.gov.kg | [38;2;237;64;35mWordPress[0m | nginx/1.10.3 | 200 | 278528 | СЛУЖБА РЕГУЛИРОВАНИЯ И НАДЗОРА ЗА ФИНАНСОВЫМ РЫНКОМ ПРИ МИНИСТЕРСТВЕ ЭКОНОМИКИ И КОММЕРЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ — СЛУЖБА РЕГУЛИРОВАНИЯ И НАДЗОРА ЗА ФИНАНСОВЫМ РЫНКОМ ПРИ МИНИСТЕРСТВЕ ЭКОНОМИКИ И КОММЕРЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ ]
+[ https://wua.water.gov.kg | [38;2;237;64;35mAngular IO (AngularJS)[0m | nginx/1.10.3 (Ubuntu) | 200 | 681 | База данных АВП ]
+[ https://archives.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 86905 | Башкы - Архивная служба при Министерстве цифрового развития Кыргызской Республики ]
+[ https://nurmanbet.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 40765 | Нурманбет айыл өкмөтүнүн расмий веб-сайты ]
+[ https://mail.avtozhol.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ]
+[ https://gvfi.gov.kg | [38;2;237;64;35mPHP[0m | Apache | 200 | 40870 | Ветеринарная служба при Министерстве сельского хозяйства Кыргызской Республики ]
+[ https://rcss.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 80076 | КР МК Мамкурулушуна караштуу Курулушта сертификаттоонун республикалык борбору ]
+[ https://aurora.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.16.1 | 200 | 154569 | Башкы бет - Санаторий Аврора ]
+[ https://check.edu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.33 | 200 | 1601 | Министерство образования и науки Кыргызской республики ]
+[ https://basma.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.16.1 | 200 | 142504 | Типография – Государственное предприятие "Типография" при Управлении делами Президента Кыргызской Республики ]
+[ https://joldor.gov.kg | [38;2;237;64;35mPHP[0m | LiteSpeed | 200 | 78731 | Негизги Бет ]
+[ https://fiu.gov.kg | [38;2;237;64;35mYii框架,PHP[0m | cloudflare | 200 | 107585 | Государственная служба финансовой разведки при Министерстве финансов Кыргызской Республики - Башкы бет ]
+[ http://koomtalkuu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.4.37 (centos) PHP/7.4.12 | 200 | 8284 | ЕДИНЫЙ ПОРТАЛ ОБЩЕСТВЕННЫХ ОБСУЖДЕНИЙ ]
+[ https://nwrmp.water.gov.kg | [38;2;237;64;35mWordPress[0m | nginx/1.10.3 (Ubuntu) | 200 | 156809 | AF NWRMP — Additional financing to the NATIONAL WATER RESOURCES MANAGEMENT PROJECT ]
+[ https://sk.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.16.1 | 200 | 48598 | Башкы бет - ]
+[ https://suzak.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 123689 |  ]
+[ https://ilim.naskr.gov.kg | [38;2;237;64;35mWordPress[0m | Apache | 200 | 98141 | Улуттук илимдер академиясы | Улуттук илимдер академиясы – УАИ КР ]
+[ https://aidarken.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.16.1 | 200 | 53820 | Айдаркен шаардык кеңешинин жана мэриясынын расмий веб-сайты ]
+[ https://southrez.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.16.1 | 200 | 124466 | ЮРП – Южная резиденция Президента КР ]
+[ http://invest.gov.kg | [38;2;237;64;35mWordPress[0m | None | 200 | 90452 | Инвестиционная карта ]
+[ https://tract.water.gov.kg | [38;2;237;64;35mWAMPSERVER,PHP[0m | nginx/1.10.3 (Ubuntu) | 200 | 5756 | WAMPSERVER Homepage ]
+[ https://export.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 86489 | Центр "Кыргыз экспорт" ]
+[ https://mail.antimonopolia.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ]
+[ https://mail.regultek.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ]
+[ https://kca.gov.kg | [38;2;237;64;35mYii框架,PHP[0m | cloudflare | 200 | 141118 | Кыргызский Центр Аккредитации ]
+[ https://esep.gov.kg | [38;2;237;64;35mPHP[0m | cloudflare | 200 | 69526 | Башкы бет ]
+[ https://www.fsa.gov.kg | [38;2;237;64;35mWordPress[0m | nginx/1.10.3 | 200 | 278528 | СЛУЖБА РЕГУЛИРОВАНИЯ И НАДЗОРА ЗА ФИНАНСОВЫМ РЫНКОМ ПРИ МИНИСТЕРСТВЕ ЭКОНОМИКИ И КОММЕРЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ — СЛУЖБА РЕГУЛИРОВАНИЯ И НАДЗОРА ЗА ФИНАНСОВЫМ РЫНКОМ ПРИ МИНИСТЕРСТВЕ ЭКОНОМИКИ И КОММЕРЦИИ КЫРГЫЗСКОЙ РЕСПУБЛИКИ ]
+[ https://www.basma.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.16.1 | 200 | 32013 | Типография – Государственное предприятие "Типография" при Управлении делами Президента Кыргызской Республики ]
+[ https://el2.sec.cert.gov.kg | [38;2;237;64;35mElastic (Database)[0m | None | 401 | 459 |  ]
+[ https://batken.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 33569 | Кыргыз Республикасынын Президентинин Баткен облусундагы ыйгарым укуктуу өкүлүнүн аппараты ]
+[ http://mnr.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.20.1 | 200 | 81963 | Министерство природных ресурсов, экологии и технического надзора КР ]
+[ https://bb.edu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.4.7 (Ubuntu) | 200 | 30873 | Билим булагы ]
+[ https://base.antimonopolia.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 4466 | Вход в личный кабинет ]
+[ https://minculture.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 236454 | Башкы бет - КРнын Маданият, маалымат, спорт жана жаштар саясаты министрлиги ]
+[ https://mfa.gov.kg | [38;2;237;64;35mYii框架[0m | None | 200 | 274968 | Башкы бет - Кыргыз Республикасынын Тышкы иштер министрлиги ]
+[ https://www.ak-say.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 32020 | Ак-Сай айыл аймагынын айыл өкмөтү ]
+[ https://terek-say.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 34628 | Терек-Сай айыл өкмөтү ]
+[ https://mail.minculture.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.14.1 | 200 | 4962 | Roundcube Webmail :: Welcome to Roundcube Webmail ]
+[ https://avtozhol.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 203982 | AvtoJol ]
+[ https://pbx.mlsp.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.14.0 (Ubuntu) | 200 | 36213 | Детские интернатные учреждения Кыргызской Республики ]
+[ https://webmail.mnr.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 5326 | Roundcube Webmail :: Welcome to Roundcube Webmail ]
+[ https://cgsn.gov.kg | [38;2;237;64;35m若依(RuoYi)-管理系统,WordPress,PHP[0m | nginx/1.16.1 | 200 | 43476 | ЦГСЭН г. Бишкек ]
+[ https://www.agro.gov.kg | [38;2;237;64;35mWordPress[0m | nginx/1.18.0 (Ubuntu) | 200 | 1101045 | Кыргыз Республикасынын Суу ресурстары, айыл чарба жана кайра иштетүү өнөр жайы министрлиги ]
+[ https://www.mlsp.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 137493 |  ]
+[ https://ik.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 174424 | Башкы бет - Ысык-Көл Райондук Администрациясы ]
+[ https://ds144.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.16.1 | 200 | 197153 | Детский сад №144 – Детский сад №144 ]
+[ https://mlsp.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 137493 |  ]
+[ https://www.ala-buga.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 32462 | Ала-Буга айыл аймагынын айыл өкмөтү ]
+[ https://www.wua.water.gov.kg | [38;2;237;64;35mAngular IO (AngularJS)[0m | nginx/1.10.3 (Ubuntu) | 200 | 681 | База данных АВП ]
+[ https://www.gvfi.gov.kg | [38;2;237;64;35mPHP[0m | Apache | 200 | 40870 | Ветеринарная служба при Министерстве сельского хозяйства Кыргызской Республики ]
+[ https://ns1.bazar-korgon.gov.kg | [38;2;237;64;35mPlesk,Plesk 面板[0m | nginx | 200 | 3849 | Web Server's Default Page ]
+[ https://mchs.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.16.1 | 200 | 114263 | Кыргыз Республикасынын Өзгөчө кырдаалдар министрлиги ]
+[ https://www.mkk.gov.kg | [38;2;237;64;35mWordPress[0m | nginx | 200 | 161155 | Башкы - Кыргыз Республикасынын Министрлер Кабинетине караштуу Мамлекеттик кызмат жана жергиликтүү өз алдынча башкаруу иштери боюнча мамлекеттик агенттик ]
+[ https://www.export.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 86495 | Центр "Кыргыз экспорт" ]
+[ https://www.ds144.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.16.1 | 200 | 114056 | Детский сад №144 – Детский сад №144 ]
+[ https://karkyra.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 31068 | Каркыра айыл аймагынын айыл өкмөтү ]
+[ https://mail.naskr.gov.kg | [38;2;237;64;35mWordPress[0m | Apache | 200 | 98141 | Улуттук илимдер академиясы | Улуттук илимдер академиясы – УАИ КР ]
+[ https://balbay.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 51972 | Балбай айыл аймагынын айыл өкмөтү ]
+[ https://oaouchkun.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 39329 | "Учкун" ААКун расмий веб-сайты ]
+[ https://orto.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | LiteSpeed | 200 | 99012 | Айыл аймагы "Орто" ]
+[ https://www.digital.gov.kg | [38;2;237;64;35mWordPress[0m | None | 200 | 69975 | Главная - Министерство цифрового развития Кыргызской Республики ]
+[ https://atay.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 41202 | Атай айыл аймагынын Айыл Өкмөтү ]
+[ https://el1.sec.cert.gov.kg | [38;2;237;64;35mElastic (Database)[0m | None | 401 | 459 |  ]
+[ https://admin.indicators.water.gov.kg | [38;2;237;64;35mAngular IO (AngularJS)[0m | nginx/1.10.3 (Ubuntu) | 200 | 668 | AdminWri ]
+[ https://ns2.mlsp.gov.kg | [38;2;237;64;35mPlesk,Plesk 面板[0m | nginx | 200 | 3849 | Web Server's Default Page ]
+[ https://mail.fgi.gov.kg | [38;2;237;64;35mCommuniGate[0m | CommuniGatePro/6.0.11 | 200 | 8014 | CommuniGate Pro fgi.gov.kg Entrance ]
+[ https://open.edu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 200 | 169883 | ИСУО ]
+[ https://mtd.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | LiteSpeed | 200 | 64299 | Министерство транспорта и коммуникаций Кыргызской Республики ]
+[ https://karasaev.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 48841 | Карасаев айыл аймагынын айыл өкмөтү ]
+[ https://wuse.water.gov.kg | [38;2;237;64;35mYii PHP Framework (Default Favicon),Yii框架[0m | nginx/1.10.3 (Ubuntu) | 200 | 8787 | ИСВ Водопользование ]
+[ https://public.edu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 200 | 169883 | ИСУО ]
+[ https://indicators.water.gov.kg | [38;2;237;64;35mAngular IO (AngularJS)[0m | nginx/1.10.3 (Ubuntu) | 200 | 848 | Пользовательский интерфейс ]
+[ https://child.mlsp.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.14.0 (Ubuntu) | 200 | 36215 | Детские интернатные учреждения Кыргызской Республики ]
+[ https://reestr.kca.gov.kg | [38;2;237;64;35mYii框架[0m | cloudflare | 200 | 505988 | Организации ]
+[ https://mail.kyrgyzkomur.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.16.1 | 200 | 5877 | Roundcube Webmail :: Welcome to Roundcube Webmail ]
+[ https://kyrgyzkomur.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.10.2 | 200 | 100839 | Кыргыз Комур ]
+[ https://mail.mchs.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.16.1 | 200 | 5877 | Roundcube Webmail :: Welcome to Roundcube Webmail ]
+[ https://24.103.gov.kg | [38;2;237;64;35m401 登陆认证[0m | nginx/1.14.2 | 401 | 597 | 401 Authorization Required ]
+[ https://www.apnip.water.gov.kg | [38;2;237;64;35mWordPress[0m | nginx/1.10.3 (Ubuntu) | 200 | 101163 | APNIP — ПРОЕКТ "УЛУЧШЕНИЕ СЕЛЬСКОХОЗЯЙСТВЕННОЙ ПРОИЗВОДИТЕЛЬНОСТИ И ПИТАНИЯ ]
+[ https://www.joldor.gov.kg | [38;2;237;64;35mPHP[0m | LiteSpeed | 200 | 78731 | Негизги Бет ]
+[ https://grja.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx/1.16.1 | 200 | 129372 | Государственная резиденция «Джалал-Абад» ]
+[ https://emis.edu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.4.37 (centos) OpenSSL/1.1.1k PHP/7.1.33 | 200 | 14923 | ИСУО Кыргызской Республики ]
+[ https://e.kca.gov.kg | [38;2;237;64;35mYii框架,PHP[0m | cloudflare | 200 | 2825 | Авторизоваться ]
+[ https://gbd.mlsp.gov.kg | [38;2;237;64;35mReact[0m | nginx/1.14.0 (Ubuntu) | 200 | 1867 | ПСУ ]
+[ https://apnip.water.gov.kg | [38;2;237;64;35mWordPress[0m | nginx/1.10.3 (Ubuntu) | 200 | 101159 | APNIP — ПРОЕКТ "УЛУЧШЕНИЕ СЕЛЬСКОХОЗЯЙСТВЕННОЙ ПРОИЗВОДИТЕЛЬНОСТИ И ПИТАНИЯ ]
+[ https://bazar-korgon.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 139026 | Бакшы бет - Базар-Коргон райондук мамлекеттик администрациясы ]
+[ https://www.cgsn.gov.kg | [38;2;237;64;35m若依(RuoYi)-管理系统,WordPress,PHP[0m | nginx/1.16.1 | 200 | 43476 | ЦГСЭН г. Бишкек ]
+[ https://talas.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 35959 | Кыргыз Республикасынын Президентинин Талас облусундагы ыйгарым укуктуу өкүлүнүн аппараты ]
+[ https://mail.export.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 52474 | SCARGOS — Delivery exchange ]
+[ https://jalal-abad.gov.kg | [38;2;237;64;35mPHP[0m | nginx/1.16.1 | 200 | 55899 | Жалал-Абад шаарынын мэриясынын расмий сайты ]
+[ https://greenenergy.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 90076 | Кыргыз Республикасынын Министрлер Кабинетине караштуу Жашыл энергетика фонду ]
+[ https://www.bozuchuk.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 30819 | Главная - Боз-учук айылы ]
+[ https://ns2.bazar-korgon.gov.kg | [38;2;237;64;35mPlesk,Plesk 面板[0m | nginx | 200 | 3849 | Web Server's Default Page ]
+[ https://ala-buga.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 32462 | Ала-Буга айыл аймагынын айыл өкмөтү ]
+[ https://suu-bashy.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 184578 | Суу-Башы Айыл Өкмөтүнүн жана Айылдык Кеңешинин расмий сайты ]
+[ http://ns1.koomtalkuu.gov.kg | [38;2;237;64;35mPHP[0m | Apache/2.2.16 (Debian) | 200 | 145736 | Кыргыз Республикасынын Юстиция министрлиги ]
+[ https://naskr.gov.kg | [38;2;237;64;35mWordPress[0m | Apache | 200 | 98065 | Улуттук илимдер академиясы | Улуттук илимдер академиясы – УАИ КР ]
+[ https://kdtp.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 185762 | Кыргызжолтрансдолбоор - Кыргыз Республикасынын Транспорт жана Жол Министрлигине Караштуу "Кыргызжолтрансдолбоор" Долбоорлоо-Изилдөө Институту Мамлекеттик ишканасы ]
+[ https://tamakash.edu.gov.kg | [38;2;237;64;35mWordPress[0m | Apache/2.4.29 (Ubuntu) | 200 | 65363 |  ]
+[ https://jalal-abadobl.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 188372 | - Башкы бет ]
+[ https://ton.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 41773 | Тон районунун мамлекеттик администрациясы ]
+[ https://enp.customs.gov.kg | [38;2;237;64;35mShiro[0m | nginx/1.18.0 (Ubuntu) | 200 | 3583 |  ]
+[ http://nlkr.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | Apache/2.4.46 (Win64) PHP/7.4.9 | 200 | 64530 | Национальная Библиотека Кыргызской Республики имени Алыкула Осмонова ]
+[ https://antimonopolia.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 306453 | Башкы бет - Кыргыз Республикасынын Экономика жана Коммерция министрлигине караштуу Монополияга каршы жөнгө салуу кызматыДЛЯ СЛАБОВИДЯЩИХУВЕЛИЧИТЬ ШРИФТУМЕНЬШИТЬ ШРИФТОТТЕНКИ СЕРОГОВЫСОКИЙ КОНТРАСТНЕГАТИВСВЕТЛЫЙ ФОНПОДЧЕРКИВАНИЕДРУГОЙ ШРИФТReset ]
+[ https://baetov-aa.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 478019 | Баетов  айыл аймагынын айыл өкмөтү ]
+[ https://toktogul.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 52979 | Токтогул шаарынын мэриясы ]
+[ https://lebedinovka-ao.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 66 |  ]
+[ https://mkk.gov.kg | [38;2;237;64;35mWordPress[0m | nginx | 200 | 161155 | Башкы - Кыргыз Республикасынын Министрлер Кабинетине караштуу Мамлекеттик кызмат жана жергиликтүү өз алдынча башкаруу иштери боюнча мамлекеттик агенттик ]
+[ https://enp.customs.gov.kg/./?force_client= | [38;2;237;64;35mShiro[0m | nginx/1.18.0 (Ubuntu) | 200 | 3593 |  ]
+[ https://toluk-ao.gov.kg | [38;2;237;64;35mPHP[0m | nginx | 200 | 327897 | Толук айыл аймагынын Толук айыл өкмөтү ]
+[ https://www.avtozhol.gov.kg | [38;2;237;64;35mWordPress,PHP[0m | nginx | 200 | 203982 | AvtoJol ]
   -----------------------------------------------------------
-  [*] finger scan is success
