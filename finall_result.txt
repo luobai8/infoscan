@@ -1,74 +1,314 @@
-子域名扫描结果如下-------------------------------------2024-07-08 16:16
-www.gov.sz
-webmail.gov.sz
-smtp.gov.sz
-online.gov.sz
-pms.gov.sz
-ww1.gov.sz
-www.business.gov.sz
-business.gov.sz
-acc.gov.sz
-www.online.gov.sz
-www.acc.gov.sz
-www.ena.gov.sz
-www.slas.gov.sz
-lmis.gov.sz
-www.parlicloud.gov.sz
-itdswaziland.gov.sz
-ena.gov.sz
-eps.gov.sz
-naphis.gov.sz
-eswatinitradeportal.gov.sz
-dsw.gov.sz
-ecabinet.gov.sz
-www.swazimet.gov.sz
-parliament.gov.sz
-parlicloud.gov.sz
-csfm.gov.sz
-www.eswatinitradeportal.gov.sz
-slas.gov.sz
-mail.eps.gov.sz
-www.parliament.gov.sz
-swazimet.gov.sz
-一共搜集到 31 个gov.sz的子域名
+子域名扫描结果如下-------------------------------------2024-07-08 20:00
+www.govt.lc
+apps.govt.lc
+facebook.govt.lc
+mail.govt.lc
+training.govt.lc
+twitter.govt.lc
+commerce.govt.lc
+nice.govt.lc
+youtube.govt.lc
+rss.govt.lc
+staff.govt.lc
+www.info.govt.lc
+audio.govt.lc
+gateway.govt.lc
+rds.govt.lc
+tv.govt.lc
+water.govt.lc
+pm.govt.lc
+elearning.govt.lc
+portal.govt.lc
+voice.govt.lc
+education.govt.lc
+media.govt.lc
+health.govt.lc
+messages.govt.lc
+zimbra.govt.lc
+sports.govt.lc
+isp.govt.lc
+archive.govt.lc
+api.govt.lc
+xmpp.govt.lc
+finance.govt.lc
+info.govt.lc
+stream.govt.lc
+data.govt.lc
+www.health.govt.lc
+rsa.govt.lc
+gateway2.govt.lc
+www.data.govt.lc
+demo.slutourism.govt.lc
+www.cdsf.govt.lc
+protool.govt.lc
+www.doaslu.govt.lc
+mail.doaslu.govt.lc
+rslpf.govt.lc
+rslpfmail.govt.lc
+skilled758.govt.lc
+ifarm.govt.lc
+rtmp01.govt.lc
+sso-uat.digigov.govt.lc
+mail.moaslu.govt.lc
+dofelibrary.govt.lc
+engageadm-int.digigov.govt.lc
+cloudsync.govt.lc
+webmail.rsa.govt.lc
+climatechange.govt.lc
+www.moadatashare-govt-lc.moaslu.govt.lc
+geoservices.govt.lc
+externalaffairs.govt.lc
+autodiscover.rsa.govt.lc
+travelslu.govt.lc
+endpoint.slutourism.govt.lc
+cdn.govt.lc
+vrcp.govt.lc
+agriculture.govt.lc
+payslips.govt.lc
+creativeculture.govt.lc
+aeoi.govt.lc
+creativeindustries.govt.lc
+webdisk.rsa.govt.lc
+infrastructure.govt.lc
+help.govt.lc
+v1.api.slutourism.govt.lc
+www.slutourism.govt.lc
+cpcalendars.doaslu.govt.lc
+psip.govt.lc
+www.neis.govt.lc
+portal.skilled758.govt.lc
+livestock.govt.lc
+www.skilled758.govt.lc
+api.slutourism.govt.lc
+edrmsr.govt.lc
+www.nicejobs.govt.lc
+sludia.govt.lc
+www.climatechange.govt.lc
+www.fire.govt.lc
+carcip.govt.lc
+neis.govt.lc
+www.digigov.govt.lc
+moadatashare-govt-lc.moaslu.govt.lc
+pma.govt.lc
+www.externalaffairs.govt.lc
+uat.digigov.govt.lc
+www.creativeindustries.govt.lc
+datashare.moaslu.govt.lc
+int-uat.digigov.govt.lc
+economicdevelopment.govt.lc
+fatca.govt.lc
+parliament.govt.lc
+www.datashare.moaslu.govt.lc
+int.digigov.govt.lc
+doaslu.govt.lc
+www.dcaportal.govt.lc
+webdisk.moaslu.govt.lc
+bananatrust.moaslu.govt.lc
+saintluciaginet.govt.lc
+cpcalendars.moaslu.govt.lc
+statstesting.govt.lc
+cpcontacts.doaslu.govt.lc
+culture.slutourism.govt.lc
+nicejobs.govt.lc
+mpid.govt.lc
+digigov.govt.lc
+moadatashare.govt.lc
+efiling.govt.lc
+www.carcip.govt.lc
+cpcontacts.moaslu.govt.lc
+pts.govt.lc
+www.ifarm.govt.lc
+npc.govt.lc
+carnival.slutourism.govt.lc
+cdn.skilled758.govt.lc
+opm.govt.lc
+www.parliament.govt.lc
+www.moaslu.govt.lc
+governorgeneral.govt.lc
+slutourism.govt.lc
+engageadm-int-uat.digigov.govt.lc
+cpanel.rsa.govt.lc
+homeaffairs.govt.lc
+fire.govt.lc
+website-75281961.moaslu.govt.lc
+cdsf.govt.lc
+www.bananatrust.moaslu.govt.lc
+moaslu.govt.lc
+www.pma.govt.lc
+sso.digigov.govt.lc
+一共搜集到 137 个govt.lc的子域名
 
 
-相关的ip---------------------------------2024-07-08 16:17
-102.23.132.19
-69.63.76.165
-69.63.76.167
-102.23.132.60
-190.2.20.4
-102.23.132.38
-196.28.7.21
-102.23.132.20
-69.63.76.163
-102.23.132.59
-65.254.231.109
-75.98.171.186
-102.23.132.33
-69.63.76.168
-69.63.64.21
-102.23.132.34
-69.63.67.141
-一共搜集到 17 个ip
+相关的ip---------------------------------2024-07-08 20:03
+92.205.25.48
+173.201.183.100
+23.92.31.175
+24.92.151.156
+69.57.236.92
+162.0.155.79
+165.227.220.66
+24.92.151.187
+24.92.151.75
+104.218.216.242
+162.0.155.36
+24.92.151.135
+167.99.1.49
+24.92.151.177
+96.45.82.231
+96.45.82.26
+96.45.83.244
+96.45.83.49
+24.92.151.171
+24.92.151.216
+107.22.171.116
+198.46.91.127
+35.185.4.24
+162.0.155.95
+162.0.155.88
+162.241.253.48
+65.48.171.14
+162.0.155.99
+192.64.118.144
+24.92.151.176
+104.19.130.103
+104.19.131.103
+162.0.155.98
+162.0.155.94
+24.92.151.131
+63.175.159.177
+34.75.164.31
+162.0.155.89
+162.0.155.35
+34.138.135.111
+24.92.151.167
+34.145.128.201
+162.0.155.102
+24.92.151.163
+24.92.151.181
+208.109.42.57
+24.92.151.173
+24.92.151.136
+216.185.152.146
+191.101.50.190
+24.92.151.153
+162.0.155.67
+65.48.171.28
+54.226.183.108
+24.92.151.213
+162.241.252.17
+24.92.151.152
+24.92.151.151
+24.92.151.149
+24.92.151.150
+162.0.155.43
+205.196.221.180
+107.180.1.236
+162.125.80.5
+208.94.176.125
+一共搜集到 65 个ip
 [0m
-[ https://eps.gov.sz |  | Apache | 200 | 245 |  ]
-[ https://business.gov.sz |  | Apache | 200 | 5954 | Grow Eswatini: Reforms for better business ]
-[ https://ena.gov.sz |  | Apache | 200 | 27659 | Eswatini National Archives ]
-[ https://www.business.gov.sz |  | Apache | 200 | 5954 | Grow Eswatini: Reforms for better business ]
-[ https://mail.eps.gov.sz |  | Apache | 200 | 245 |  ]
-[ https://www.gov.sz |  | Apache/2.4.41 (Ubuntu) | 200 | 147789 | Home ]
-[ http://itdswaziland.gov.sz |  | Microsoft-IIS/10.0 | 403 | 1233 | 403 - Forbidden: Access is denied. ]
-[ https://www.ena.gov.sz |  | Apache | 200 | 27659 | Eswatini National Archives ]
-[ https://acc.gov.sz |  | nginx | 200 | 8271 | Eswatini Anti-Corruption Commission ]
-[ https://dsw.gov.sz |  | None | 200 | 1641 | Primero ]
-[ https://www.acc.gov.sz |  | nginx | 200 | 8271 | Eswatini Anti-Corruption Commission ]
-[ https://www.parliament.gov.sz |  | Apache | 200 | 51591 | Parliament of the Kingdom of Eswatini ]
-[ https://parliament.gov.sz |  | Apache | 200 | 51551 | Parliament of the Kingdom of Eswatini ]
-[ https://ecabinet.gov.sz |  | Microsoft-IIS/7.5 | 401 | 0 |  ]
-[ http://pms.gov.sz |  | nginx/1.26.0 | 200 | 9359 | Eswatini Government PMS ]
+[ https://engageadm-int.digigov.govt.lc |  | cloudflare | 403 | 5418 | Access denied | engageadm-int.digigov.govt.lc used Cloudflare to restrict access ]
+[ https://int-uat.digigov.govt.lc |  | cloudflare | 403 | 5406 | Access denied | int-uat.digigov.govt.lc used Cloudflare to restrict access ]
+[ https://int.digigov.govt.lc |  | cloudflare | 403 | 5398 | Access denied | int.digigov.govt.lc used Cloudflare to restrict access ]
+[ https://uat.digigov.govt.lc |  | cloudflare | 403 | 5398 | Access denied | uat.digigov.govt.lc used Cloudflare to restrict access ]
+[ https://moadatashare-govt-lc.moaslu.govt.lc |  | Apache | 403 | 318 | 403 Forbidden ]
+[ https://cpcalendars.doaslu.govt.lc |  | Apache | 503 | 428 | 503 Service Unavailable ]
+[ http://api.govt.lc |  | Microsoft-HTTPAPI/2.0 | 404 | 315 | Not Found ]
+[ https://api.slutourism.govt.lc |  | nginx/1.18.0 (Ubuntu) | 200 | 4 |  ]
+[ http://pm.govt.lc |  | Microsoft-HTTPAPI/2.0 | 404 | 315 | Not Found ]
+[ https://demo.slutourism.govt.lc |  | nginx/1.18.0 (Ubuntu) | 200 | 773 | Ministry of Tourism Government of Saint Lucia ]
+[ http://portal.govt.lc |  | Microsoft-HTTPAPI/2.0 | 404 | 315 | Not Found ]
+[ https://www.slutourism.govt.lc |  | nginx/1.18.0 (Ubuntu) | 200 | 773 | Ministry of Tourism Government of Saint Lucia ]
+[ https://sso-uat.digigov.govt.lc |  | cloudflare | 200 | 1087 |  ]
+[ https://v1.api.slutourism.govt.lc |  | nginx/1.18.0 (Ubuntu) | 200 | 145 | Expresso ]
+[ http://rds.govt.lc |  | Microsoft-HTTPAPI/2.0 | 404 | 315 | Not Found ]
+[ https://cdn.govt.lc |  | nginx/1.18.0 (Ubuntu) | 200 | 612 | Welcome to nginx! ]
+[ https://mail.doaslu.govt.lc |  | Apache | 404 | 315 | 404 Not Found ]
+[ http://training.govt.lc |  | Microsoft-IIS/10.0 | 500 | 5383 | Object reference not set to an instance of an object. ]
+[ https://www.data.govt.lc |  | nginx | 404 | 970 | Web Site Not Found ]
+[ https://www.moadatashare-govt-lc.moaslu.govt.lc |  | Apache | 403 | 318 | 403 Forbidden ]
+[ https://data.govt.lc |  | nginx | 404 | 970 | Web Site Not Found ]
+[ https://www.digigov.govt.lc |  | cloudflare | 200 | 109 |  ]
+[ https://rss.govt.lc |  | Microsoft-IIS/10.0 | 404 | 0 |  ]
+[ https://doaslu.govt.lc |  | Apache | 404 | 315 | 404 Not Found ]
+[ https://www.doaslu.govt.lc |  | Apache | 404 | 315 | 404 Not Found ]
+[ https://gateway.govt.lc |  | None | 200 | 131 |  ]
+[ https://webdisk.moaslu.govt.lc |  | nginx/1.21.6 | 500 | 668 | 500 Internal Server Error ]
+[38;2;237;64;35m[ https://economicdevelopment.govt.lc | Wordpress Under Construction Icon,PHP | LiteSpeed | 200 | 2101 | Acquanic en construcción ][0m
+[ https://travelslu.govt.lc |  | nginx | 200 | 8985 | St. Lucia - Online Immigration & Customs Portal ]
+[ https://cpcalendars.moaslu.govt.lc |  | nginx/1.21.6 | 500 | 668 | 500 Internal Server Error ]
+[ https://cpcontacts.doaslu.govt.lc |  | Apache | 503 | 428 | 503 Service Unavailable ]
+[ https://engageadm-int-uat.digigov.govt.lc |  | cloudflare | 403 | 5426 | Access denied | engageadm-int-uat.digigov.govt.lc used Cloudflare to restrict access ]
+[ https://ifarm.govt.lc |  | Apache | 200 | 23610 | Home | iFarm App : ]
+[ https://cpcontacts.moaslu.govt.lc |  | nginx/1.21.6 | 500 | 668 | 500 Internal Server Error ]
+[ https://carnival.slutourism.govt.lc |  | nginx/1.18.0 (Ubuntu) | 200 | 928 | Ministry of Tourism Government of Saint Lucia ]
+[ https://digigov.govt.lc |  | cloudflare | 200 | 109 |  ]
+[ https://webdisk.rsa.govt.lc |  | nginx/1.25.3 | 502 | 559 | 502 Bad Gateway ]
+[ https://moadatashare.govt.lc |  | Apache | 404 | 315 | 404 Not Found ]
+[ https://slutourism.govt.lc |  | nginx/1.18.0 (Ubuntu) | 200 | 773 | Ministry of Tourism Government of Saint Lucia ]
+[ https://npc.govt.lc |  | Apache | 200 | 26500 | Welcome to National Printing Corporation (NPC) ]
+[ https://gateway2.govt.lc |  | None | 200 | 131 |  ]
+[ https://aeoi.govt.lc |  | Microsoft-IIS/10.0 | 200 | 20060 | 	Saint Lucia AEOI Portal Login ]
+[ https://sso-uat.digigov.govt.lc/auth/"  |  | cloudflare | 404 | 110 |  ]
+[ https://webmail.rsa.govt.lc |  | nginx/1.25.3 | 200 | 36221 | Webmail Login | InMotion Hosting ]
+[ https://autodiscover.rsa.govt.lc |  | nginx/1.25.3 | 200 | 36185 | cPanel Login | InMotion Hosting ]
+[38;2;237;64;35m[ https://apps.govt.lc | WordPress,PHP | Apache | 200 | 84813 | Saint Lucia Parliament ][0m
+[ https://sso.digigov.govt.lc |  | cloudflare | 200 | 1087 |  ]
+[ https://infrastructure.govt.lc |  | Microsoft-IIS/10.0 | 200 | 97607 | 	Ministry of Infrastructure, Ports, Transport, Physical Development and Urban Renewal ]
+[ https://sports.govt.lc |  | Microsoft-IIS/10.0 | 200 | 78064 | 	Ministry of Youth Development and Sports ]
+[ https://education.govt.lc |  | Microsoft-IIS/10.0 | 200 | 108572 | 	Ministry of Education, Sustainable Development, Innovation, Science, Technology and Vocational Training ]
+[ https://finance.govt.lc |  | Microsoft-IIS/10.0 | 200 | 96384 | 	Ministry of Finance, Economic Development and the Youth Economy ]
+[ https://opm.govt.lc |  | Microsoft-IIS/10.0 | 200 | 63559 | 	Office of the Prime Minister of Saint Lucia ]
+[ https://isp.govt.lc |  | DNSME HTTP Redirection | 200 | 794 | GOSL Income Support Programme ]
+[ https://tv.govt.lc |  | Apache/2.4.58 (Unix) OpenSSL/1.1.1w mod_wsgi/4.9.0 Python/3.10 | 200 | 2197 | CASTUS UI ]
+[38;2;237;64;35m[ https://sludia.govt.lc | WordPress,PHP | Apache | 200 | 38207 | Maintenance Mode – Saint Lucia Diaspora Affairs ][0m
+[ https://www.ifarm.govt.lc |  | Apache | 200 | 864 | Site not found · DreamHost ]
+[ https://geoservices.govt.lc |  | nginx/1.27.0 | 200 | 56811 | Open Source GIS Stack ]
+[ https://www.govt.lc |  | Microsoft-IIS/10.0 | 200 | 44259 | 	Home Page ]
+[38;2;237;64;35m[ https://mail.moaslu.govt.lc | WordPress | nginx/1.21.6 | 200 | 211649 | Ministry of Agriculture - Ministry of Agriculture Fisheries, Food Security and Rural Development ][0m
+[ https://sso-uat.digigov.govt.lc/auth |  | cloudflare | 200 | 4081 | Welcome to Keycloak ]
+[ https://pma.govt.lc |  | nginx/1.14.0 (Ubuntu) | 200 | 66218 | Welcome to the Pitons Management Area - Pitons Management Area ]
+[ https://sso.digigov.govt.lc/auth/"  |  | cloudflare | 404 | 106 |  ]
+[38;2;237;64;35m[ https://www.moaslu.govt.lc | WordPress | nginx/1.21.6 | 200 | 211649 | Ministry of Agriculture - Ministry of Agriculture Fisheries, Food Security and Rural Development ][0m
+[ https://www.datashare.moaslu.govt.lc |  | Apache | 200 | 4348627 | MOA Data Share ]
+[ https://help.govt.lc |  | DNSME HTTP Redirection | 200 | 759 |  ]
+[38;2;237;64;35m[ https://rsa.govt.lc | WordPress | nginx/1.25.3 | 200 | 69508 | Regulated Substances Authority ][0m
+[38;2;237;64;35m[ https://bananatrust.moaslu.govt.lc | WordPress | nginx/1.21.6 | 200 | 88758 | Banana Industry Trust Corporation | Restoring confidence in the banana industry ][0m
+[ https://agriculture.govt.lc |  | Microsoft-IIS/10.0 | 200 | 88017 | 	Ministry of Agriculture, Fisheries, Food Security and Rural Development ]
+[38;2;237;64;35m[ https://media.govt.lc | Drupal | nginx/1.14.0 (Ubuntu) | 200 | 4078 | The UnOfficial Site | Lucian Carnival ][0m
+[ https://rtmp01.govt.lc |  | nginx/1.18.0 (Ubuntu) | 200 | 612 | Welcome to nginx! ]
+[ https://commerce.govt.lc |  | Microsoft-IIS/10.0 | 200 | 93819 | 	Ministry of Commerce, Manufacturing, Business Development, Cooperatives and Consumer Affairs ]
+[ https://health.govt.lc |  | Microsoft-IIS/10.0 | 200 | 96472 | 	Ministry of Health, Wellness and Elderly Affairs ]
+[38;2;237;64;35m[ https://moaslu.govt.lc | WordPress | nginx/1.21.6 | 200 | 211649 | Ministry of Agriculture - Ministry of Agriculture Fisheries, Food Security and Rural Development ][0m
+[ https://sso.digigov.govt.lc/auth |  | cloudflare | 200 | 4077 | Welcome to Keycloak ]
+[38;2;237;64;35m[ https://dofelibrary.govt.lc | WordPress | nginx/1.21.6 | 200 | 121176 | Fisheries Data LibraryAccessibility ToolsIncrease TextDecrease TextGrayscaleHigh ContrastNegative ContrastLight BackgroundLinks UnderlineReadable FontReset ][0m
+[38;2;237;64;35m[ https://website-75281961.moaslu.govt.lc | WordPress | nginx/1.21.6 | 200 | 121233 | Fisheries Data LibraryAccessibility ToolsIncrease TextDecrease TextGrayscaleHigh ContrastNegative ContrastLight BackgroundLinks UnderlineReadable FontReset ][0m
+[38;2;237;64;35m[ https://www.bananatrust.moaslu.govt.lc | WordPress | nginx/1.21.6 | 200 | 88758 | Banana Industry Trust Corporation | Restoring confidence in the banana industry ][0m
+[ https://stream.govt.lc |  | Apache/2.4.58 (Unix) OpenSSL/1.1.1w mod_wsgi/4.9.0 Python/3.10 | 200 | 2197 | CASTUS UI ]
+[ https://externalaffairs.govt.lc |  | Microsoft-IIS/10.0 | 200 | 89986 | 	Ministry of External Affairs,  International Trade and Civil Aviation ]
+[ https://homeaffairs.govt.lc |  | Microsoft-IIS/10.0 | 200 | 92293 | 	Ministry of Home Affairs, Justice and National Security ]
+[ https://governorgeneral.govt.lc |  | Microsoft-IIS/10.0 | 200 | 11395 | 	Office of the Governor General of Saint Lucia ]
+[ https://www.pma.govt.lc |  | nginx/1.14.0 (Ubuntu) | 200 | 66365 | Welcome to the Pitons Management Area - Pitons Management Area ]
+[ https://datashare.moaslu.govt.lc |  | Apache | 200 | 3656228 | MOA Data Share ]
+[ http://www.fire.govt.lc |  | nginx/1.19.10 | 200 | 612 | Welcome to nginx! ]
+[ http://audio.govt.lc |  | nginx/1.19.8 | 200 | 2068 | Sean Lang ]
+[ http://cpanel.rsa.govt.lc |  | nginx/1.25.3 | 200 | 36185 | cPanel Login | InMotion Hosting ]
+[38;2;237;64;35m[ https://parliament.govt.lc | WordPress | Apache | 200 | 102545 | Page not found – Parliament of Saint Lucia ][0m
+[ http://efiling.govt.lc |  | Microsoft-IIS/8.0 | 200 | 10316 |  ]
 [38;2;244;211;49m
 重点资产：[0m
+[ https://economicdevelopment.govt.lc | [38;2;237;64;35mWordpress Under Construction Icon,PHP[0m | LiteSpeed | 200 | 2101 | Acquanic en construcción ]
+[ https://apps.govt.lc | [38;2;237;64;35mWordPress,PHP[0m | Apache | 200 | 84813 | Saint Lucia Parliament ]
+[ https://sludia.govt.lc | [38;2;237;64;35mWordPress,PHP[0m | Apache | 200 | 38207 | Maintenance Mode – Saint Lucia Diaspora Affairs ]
+[ https://mail.moaslu.govt.lc | [38;2;237;64;35mWordPress[0m | nginx/1.21.6 | 200 | 211649 | Ministry of Agriculture - Ministry of Agriculture Fisheries, Food Security and Rural Development ]
+[ https://www.moaslu.govt.lc | [38;2;237;64;35mWordPress[0m | nginx/1.21.6 | 200 | 211649 | Ministry of Agriculture - Ministry of Agriculture Fisheries, Food Security and Rural Development ]
+[ https://rsa.govt.lc | [38;2;237;64;35mWordPress[0m | nginx/1.25.3 | 200 | 69508 | Regulated Substances Authority ]
+[ https://bananatrust.moaslu.govt.lc | [38;2;237;64;35mWordPress[0m | nginx/1.21.6 | 200 | 88758 | Banana Industry Trust Corporation | Restoring confidence in the banana industry ]
+[ https://media.govt.lc | [38;2;237;64;35mDrupal[0m | nginx/1.14.0 (Ubuntu) | 200 | 4078 | The UnOfficial Site | Lucian Carnival ]
+[ https://moaslu.govt.lc | [38;2;237;64;35mWordPress[0m | nginx/1.21.6 | 200 | 211649 | Ministry of Agriculture - Ministry of Agriculture Fisheries, Food Security and Rural Development ]
+[ https://dofelibrary.govt.lc | [38;2;237;64;35mWordPress[0m | nginx/1.21.6 | 200 | 121176 | Fisheries Data LibraryAccessibility ToolsIncrease TextDecrease TextGrayscaleHigh ContrastNegative ContrastLight BackgroundLinks UnderlineReadable FontReset ]
+[ https://website-75281961.moaslu.govt.lc | [38;2;237;64;35mWordPress[0m | nginx/1.21.6 | 200 | 121233 | Fisheries Data LibraryAccessibility ToolsIncrease TextDecrease TextGrayscaleHigh ContrastNegative ContrastLight BackgroundLinks UnderlineReadable FontReset ]
+[ https://www.bananatrust.moaslu.govt.lc | [38;2;237;64;35mWordPress[0m | nginx/1.21.6 | 200 | 88758 | Banana Industry Trust Corporation | Restoring confidence in the banana industry ]
+[ https://parliament.govt.lc | [38;2;237;64;35mWordPress[0m | Apache | 200 | 102545 | Page not found – Parliament of Saint Lucia ]
   -----------------------------------------------------------
   [*] 指纹识别完成
